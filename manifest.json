@@ -1,0 +1,24 @@
+{
+  "name": "广东省智慧交通产业图谱",
+  "short_name": "智慧交通图谱",
+  "description": "广东省智慧交通产业图谱 - 三层架构·十二大场景·全产业链覆盖",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080c17",
+  "theme_color": "#0a0e1a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "reference"],
+  "lang": "zh-CN"
+}
