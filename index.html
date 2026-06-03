@@ -302,7 +302,6 @@ footer strong{color:var(--text-secondary);font-weight:600}
       <div class="col-body" id="colDown"></div>
     </div>
     <div id="detail">
-      <button class="close-btn" onclick="closeDetail()" title="关闭">✕</button>
       <div class="detail-empty">
         <span class="empty-icon">📋</span>
         <div class="text">点击企业卡片<br>查看详细信息</div>
@@ -426,14 +425,16 @@ function selectOne(name){
 function renderDetail(){
   const el = document.getElementById('detail');
   if(!selected){
-    el.innerHTML = '<button class="close-btn" onclick="closeDetail()" title="关闭">✕</button><div class="detail-empty"><span class="empty-icon">📋</span><div class="text">点击企业卡片<br>查看详细信息</div><div class="hint">支持搜索 · 类型筛选 · 场景筛选</div></div>';
+    el.innerHTML = '<div class="detail-empty"><span class="empty-icon">📋</span><div class="text">点击企业卡片<br>查看详细信息</div><div class="hint">支持搜索 · 类型筛选 · 场景筛选</div></div>';
     if(isMobile) el.classList.remove('show');
     return;
   }
-  if(isMobile) el.classList.add('show');
+  if(isMobile){
+    el.classList.add('show');
+  }
   
-  let h = '<div class="detail-title">' + esc(selected.n) + '</div>';
-  
+  let h = (isMobile ? '<button class="close-btn" onclick="closeDetail()">✕</button>' : '');
+  h += '<div class="detail-title">' + esc(selected.n) + '</div>';
   h += '<div class="badges">';
   h += '<span class="badge badge-type-' + esc(selected.t) + '">' + esc(selected.t) + '</span>';
   h += '<span class="badge badge-tier">' + esc(selected.r) + '</span>';
