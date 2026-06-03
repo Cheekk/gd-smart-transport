@@ -102,14 +102,18 @@ body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSy
   .stat .num{font-size:1.1rem}
   .stat .lbl{font-size:.6rem}
 
-  /* 搜索 */
-  .controls-wrap{padding:10px 10px 4px}
-  .controls{gap:6px;justify-content:flex-start}
-  .search-wrap{flex:1;min-width:0}
-  .search-wrap input{width:100%;padding:8px 14px 8px 32px;font-size:.82rem;border-radius:18px}
-  .search-wrap .search-icon{left:10px;font-size:.8rem}
-  .filter-btn{padding:6px 10px;font-size:.72rem;border-radius:16px}
-  .filter-btn .f-count{min-width:16px;height:15px;font-size:.58rem}
+  /* 搜索：浮动按钮 */
+  .controls-wrap{padding:0}
+  .controls{justify-content:flex-start;gap:5px;padding:6px 10px 2px}
+  .search-wrap{position:fixed;top:auto;bottom:24px;right:16px;z-index:99}
+  .search-wrap .search-icon{display:none}
+  .search-wrap input{width:44px;height:44px;padding:0;border-radius:22px;border:none;background:var(--blue);color:transparent;font-size:0;cursor:pointer;box-shadow:0 4px 14px rgba(37,99,235,.4);transition:all .3s ease;text-indent:-9999px}
+  .search-wrap input::placeholder{color:transparent}
+  .search-wrap::before{content:'🔍';position:absolute;left:12px;top:50%;transform:translateY(-50%);font-size:1.2rem;pointer-events:none;z-index:1;transition:opacity .2s}
+  .search-wrap.expanded input{width:260px;padding:10px 16px 10px 40px;border-radius:22px;background:var(--surface);color:var(--text);font-size:.85rem;text-indent:0;border:1px solid var(--border);box-shadow:0 4px 20px rgba(0,0,0,.15)}
+  .search-wrap.expanded::before{opacity:.5}
+  .filter-btn{padding:5px 8px;font-size:.68rem;border-radius:14px}
+  .filter-btn .f-count{min-width:14px;height:13px;font-size:.56rem;padding:0 3px}
 
   /* 场景标签 */
   .scenario-wrap{padding:2px 10px 8px}
@@ -257,7 +261,7 @@ footer strong{color:var(--text-secondary);font-weight:600}
   <div class="controls">
     <div class="search-wrap">
       <span class="search-icon">🔍</span>
-      <input type="text" id="searchInput" placeholder="搜索企业名称 / 场景 / 产品..." oninput="doSearch()">
+      <input type="text" id="searchInput" placeholder="搜索企业名称 / 场景 / 产品...">
     </div>
     <button class="filter-btn active" data-type="all" onclick="filterType('all')">全部<span class="f-count" id="cntAll"></span></button>
     <button class="filter-btn" data-type="国央企" onclick="filterType('国央企')">🏛 国央企<span class="f-count" id="cntSOE"></span></button>
@@ -519,6 +523,45 @@ function doSearch(){
   document.getElementById('clearFilter').style.display = (activeType !== 'all' || activeScenario || searchQuery) ? 'inline-block' : 'none';
   render();
 }
+
+// 移动端搜索浮动按钮交互
+(function(){
+  const wrap = document.querySelector('.search-wrap');
+  const input = document.getElementById('searchInput');
+  if(!wrap || !input) return;
+  
+  // 点击展开
+  wrap.addEventListener('click', function(e){
+    if(!wrap.classList.contains('expanded')){
+      e.preventDefault();
+      wrap.classList.add('expanded');
+      setTimeout(() => input.focus(), 100);
+    }
+  });
+  
+  // 点击其他区域收起
+  document.addEventListener('click', function(e){
+    if(!wrap.contains(e.target) && wrap.classList.contains('expanded') && !input.value.trim()){
+      wrap.classList.remove('expanded');
+      searchQuery = '';
+      render();
+    }
+  });
+  
+  // 输入时搜索
+  input.addEventListener('input', function(){
+    doSearch();
+  });
+  
+  // ESC 收起
+  input.addEventListener('keydown', function(e){
+    if(e.key === 'Escape'){
+      input.value = '';
+      wrap.classList.remove('expanded');
+      doSearch();
+    }
+  });
+})();
 
 function updateStats(filtered){
   document.getElementById('stTotal').textContent = filtered.length;
