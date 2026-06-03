@@ -427,7 +427,7 @@ function updateStats(filtered){
   const scenarioSet = new Set();
   filtered.forEach(e => e.s.forEach(s => scenarioSet.add(s)));
   document.getElementById('stScenario').textContent = scenarioSet.size;
-  document.getElementById('ftCount').textContent = filtered.length;
+  document.getElementById('ftCount').textContent = ENTERPRISES.length;
   
   document.getElementById('cntAll').textContent = ENTERPRISES.length;
   document.getElementById('cntSOE').textContent = ENTERPRISES.filter(e => e.t==='国央企').length;
