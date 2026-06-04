@@ -23,19 +23,19 @@
 
 
   <rect x="100" y="230" width="858" height="60" rx="8" fill="white" stroke="#e2e8f0" filter="url(#cardShadow)"/>
-  <text x="529" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#1e293b">397</text>
+  <text x="529" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#1e293b">417</text>
   <text x="529" y="278" text-anchor="middle" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="12" fill="#94a3b8">收录企业/机构</text>
 
   <rect x="968" y="230" width="858" height="60" rx="8" fill="white" stroke="#e2e8f0" filter="url(#cardShadow)"/>
-  <text x="1397" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#1e293b">137</text>
+  <text x="1397" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#1e293b">156</text>
   <text x="1397" y="278" text-anchor="middle" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="12" fill="#94a3b8">上游技术</text>
 
   <rect x="1836" y="230" width="858" height="60" rx="8" fill="white" stroke="#e2e8f0" filter="url(#cardShadow)"/>
-  <text x="2265" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#1e293b">188</text>
+  <text x="2265" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#1e293b">190</text>
   <text x="2265" y="278" text-anchor="middle" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="12" fill="#94a3b8">中游集成</text>
 
   <rect x="2704" y="230" width="858" height="60" rx="8" fill="white" stroke="#e2e8f0" filter="url(#cardShadow)"/>
-  <text x="3133" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#1e293b">72</text>
+  <text x="3133" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#1e293b">71</text>
   <text x="3133" y="278" text-anchor="middle" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="12" fill="#94a3b8">下游应用</text>
 
   <rect x="3572" y="230" width="858" height="60" rx="8" fill="white" stroke="#e2e8f0" filter="url(#cardShadow)"/>
@@ -48,32 +48,32 @@
   <rect x="200" y="315" width="156" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="212" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">智慧交通管理</text>
   <rect x="326" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="337" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">231</text>
+  <text x="337" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">250</text>
 
   <rect x="364" y="315" width="124" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="376" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">智慧公路</text>
   <rect x="458" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="469" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">111</text>
+  <text x="469" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">130</text>
 
   <rect x="496" y="315" width="140" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="508" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">交通大数据</text>
   <rect x="606" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="617" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">76</text>
+  <text x="617" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">92</text>
 
   <rect x="644" y="315" width="124" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="656" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">人工智能</text>
   <rect x="738" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="749" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">63</text>
+  <text x="749" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">73</text>
 
   <rect x="776" y="315" width="124" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="788" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">自动驾驶</text>
   <rect x="870" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="881" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">52</text>
+  <text x="881" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">64</text>
 
   <rect x="908" y="315" width="156" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="920" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">湾区MaaS</text>
   <rect x="1034" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="1045" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">52</text>
+  <text x="1045" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">67</text>
 
   <rect x="1072" y="315" width="156" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="1084" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">信创网络安全</text>
@@ -83,22 +83,22 @@
   <rect x="1236" y="315" width="156" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="1248" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">低空智慧交通</text>
   <rect x="1362" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="1373" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">36</text>
+  <text x="1373" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">45</text>
 
   <rect x="1400" y="315" width="156" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="1412" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">智慧轨道交通</text>
   <rect x="1526" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="1537" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">20</text>
+  <text x="1537" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">22</text>
 
   <rect x="1564" y="315" width="124" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="1576" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">智慧停车</text>
   <rect x="1658" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="1669" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">13</text>
+  <text x="1669" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">14</text>
 
   <rect x="1696" y="315" width="124" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="1708" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">智慧港航</text>
   <rect x="1790" y="320" width="22" height="20" rx="10" fill="#f1f5f9"/>
-  <text x="1801" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">12</text>
+  <text x="1801" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#94a3b8" font-weight="700">20</text>
 
   <rect x="1828" y="315" width="124" height="30" rx="15" fill="white" stroke="#e2e8f0"/>
   <text x="1840" y="335" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#1e293b">具身智能</text>
@@ -115,1011 +115,1011 @@
   <text x="2994" y="391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="13" fill="#0891b2" font-weight="700">📱  下游应用 · 运营服务/出行平台/终端应用/数据服务</text>
 
   <rect x="80" y="415" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="80" y="415" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="90" y="431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中国电信股份有限公司广东分公司</text>
-  <text x="90" y="445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 信创网络安全</text>
+  <rect x="80" y="415" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="90" y="431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">上海华测导航技术股份有限公司</text>
+  <text x="90" y="445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 低空智慧交通</text>
 
   <rect x="80" y="455" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="80" y="455" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="90" y="471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中国移动通信集团广东有限公司</text>
-  <text x="90" y="485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 交通大数据</text>
+  <rect x="80" y="455" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="90" y="471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">上海峰华人工智能科技有限公司</text>
+  <text x="90" y="485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">人工智能 · 智慧交通管理</text>
 
   <rect x="80" y="495" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="80" y="495" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="90" y="511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中国联合网络通信有限公司中山市分公司</text>
-  <text x="90" y="525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <rect x="80" y="495" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="90" y="511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中兴通讯股份有限公司</text>
+  <text x="90" y="525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 信创网络安全</text>
 
   <rect x="80" y="535" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="80" y="535" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="90" y="551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中国联合网络通信有限公司广东省分公司</text>
-  <text x="90" y="565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 信创网络安全</text>
+  <rect x="80" y="535" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="90" y="551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中山市人杰职业培训学校有限公司</text>
+  <text x="90" y="565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="575" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="80" y="575" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="90" y="591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中电科普天科技股份有限公司</text>
-  <text x="90" y="605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全</text>
+  <rect x="80" y="575" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="90" y="591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中电科金仓（北京）科技股份有限公司</text>
+  <text x="90" y="605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">交通大数据 · 信创网络安全</text>
 
   <rect x="80" y="615" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="80" y="615" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="90" y="631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东联合电子服务股份有限公司</text>
-  <text x="90" y="645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 交通大数据</text>
+  <rect x="80" y="615" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="90" y="631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中科星图数字地球合肥有限公司</text>
+  <text x="90" y="645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 交通大数据</text>
 
   <rect x="80" y="655" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="80" y="655" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="90" y="671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州交信投科技股份有限公司</text>
-  <text x="90" y="685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 湾区MaaS</text>
+  <rect x="80" y="655" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="90" y="671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">云宏信息科技股份有限公司</text>
+  <text x="90" y="685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全 · 人工智能</text>
 
   <rect x="80" y="695" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="80" y="695" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="90" y="711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州汽车集团股份有限公司</text>
-  <text x="90" y="725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能 · 低空智慧交通</text>
+  <rect x="80" y="695" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="90" y="711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">云念软件（广东）有限公司</text>
+  <text x="90" y="725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
 
   <rect x="80" y="735" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="80" y="735" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="90" y="751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳市易行网数字科技有限公司</text>
-  <text x="90" y="765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <rect x="80" y="735" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="90" y="751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">亚信安全科技股份有限公司</text>
+  <text x="90" y="765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
 
   <rect x="80" y="775" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="775" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">上海华测导航技术股份有限公司</text>
-  <text x="90" y="805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 低空智慧交通</text>
+  <text x="90" y="791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">亿航智能设备有限公司</text>
+  <text x="90" y="805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 自动驾驶</text>
 
   <rect x="80" y="815" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="815" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">上海峰华人工智能科技有限公司</text>
-  <text x="90" y="845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">人工智能 · 智慧交通管理</text>
+  <text x="90" y="831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">佛山市青松科技股份有限公司</text>
+  <text x="90" y="845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
 
   <rect x="80" y="855" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="855" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中兴通讯股份有限公司</text>
-  <text x="90" y="885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 信创网络安全</text>
+  <text x="90" y="871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">佳都科技集团股份有限公司</text>
+  <text x="90" y="885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧轨道交通 · 人工智能</text>
 
   <rect x="80" y="895" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="895" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中山市人杰职业培训学校有限公司</text>
-  <text x="90" y="925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="90" y="911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京万集科技股份有限公司</text>
+  <text x="90" y="925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 自动驾驶</text>
 
   <rect x="80" y="935" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="935" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中电科金仓（北京）科技股份有限公司</text>
-  <text x="90" y="965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">交通大数据 · 信创网络安全</text>
+  <text x="90" y="951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京信安世纪科技股份有限公司</text>
+  <text x="90" y="965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
 
   <rect x="80" y="975" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="975" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中科星图数字地球合肥有限公司</text>
-  <text x="90" y="1005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 交通大数据</text>
+  <text x="90" y="991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京卓视智通科技有限责任公司</text>
+  <text x="90" y="1005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
 
   <rect x="80" y="1015" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1015" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">云宏信息科技股份有限公司</text>
-  <text x="90" y="1045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全 · 人工智能</text>
+  <text x="90" y="1031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京博研智通科技有限公司</text>
+  <text x="90" y="1045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
 
   <rect x="80" y="1055" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1055" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">云念软件（广东）有限公司</text>
-  <text x="90" y="1085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
+  <text x="90" y="1071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京启明星辰信息安全技术有限公司</text>
+  <text x="90" y="1085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
 
   <rect x="80" y="1095" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1095" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">亚信安全科技股份有限公司</text>
-  <text x="90" y="1125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
+  <text x="90" y="1111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京四维图新科技股份有限公司</text>
+  <text x="90" y="1125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 智慧交通管理 · 交通大数据</text>
 
   <rect x="80" y="1135" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1135" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">亿航智能设备有限公司</text>
-  <text x="90" y="1165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 自动驾驶</text>
+  <text x="90" y="1151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京天融信网络安全技术有限公司广州分公司</text>
+  <text x="90" y="1165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
 
   <rect x="80" y="1175" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1175" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">佛山市青松科技股份有限公司</text>
-  <text x="90" y="1205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <text x="90" y="1191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京神州绿盟科技有限公司</text>
+  <text x="90" y="1205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
 
   <rect x="80" y="1215" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1215" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">佳都科技集团股份有限公司</text>
-  <text x="90" y="1245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧轨道交通 · 人工智能</text>
+  <text x="90" y="1231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京网御星云信息技术有限公司</text>
+  <text x="90" y="1245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
 
   <rect x="80" y="1255" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1255" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京万集科技股份有限公司</text>
-  <text x="90" y="1285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 自动驾驶</text>
+  <text x="90" y="1271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京视讯伟业科技有限公司</text>
+  <text x="90" y="1285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="1295" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1295" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京信安世纪科技股份有限公司</text>
-  <text x="90" y="1325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
+  <text x="90" y="1311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华为技术有限公司</text>
+  <text x="90" y="1325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 信创网络安全</text>
 
   <rect x="80" y="1335" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1335" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京卓视智通科技有限责任公司</text>
-  <text x="90" y="1365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
+  <text x="90" y="1351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华为海思半导体有限公司</text>
+  <text x="90" y="1365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能</text>
 
   <rect x="80" y="1375" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1375" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京博研智通科技有限公司</text>
-  <text x="90" y="1405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
+  <text x="90" y="1391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华力创科学（深圳）有限公司</text>
+  <text x="90" y="1405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能</text>
 
   <rect x="80" y="1415" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1415" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京启明星辰信息安全技术有限公司</text>
-  <text x="90" y="1445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
+  <text x="90" y="1431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华章数据技术有限公司</text>
+  <text x="90" y="1445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">交通大数据 · 信创网络安全</text>
 
   <rect x="80" y="1455" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1455" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京四维图新科技股份有限公司</text>
-  <text x="90" y="1485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 智慧交通管理 · 交通大数据</text>
+  <text x="90" y="1471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华诺星空技术股份有限公司</text>
+  <text x="90" y="1485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 智慧交通管理</text>
 
   <rect x="80" y="1495" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1495" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京天融信网络安全技术有限公司广州分公司</text>
-  <text x="90" y="1525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
+  <text x="90" y="1511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">南京莱斯信息技术股份有限公司</text>
+  <text x="90" y="1525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 低空智慧交通</text>
 
   <rect x="80" y="1535" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1535" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京神州绿盟科技有限公司</text>
+  <text x="90" y="1551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">奇安信网神信息技术(北京)股份有限公司</text>
   <text x="90" y="1565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
 
   <rect x="80" y="1575" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1575" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京网御星云信息技术有限公司</text>
+  <text x="90" y="1591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">山东新潮信息技术有限公司</text>
   <text x="90" y="1605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
 
   <rect x="80" y="1615" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1615" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京视讯伟业科技有限公司</text>
-  <text x="90" y="1645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="90" y="1631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">峰飞航空科技（深圳）有限公司</text>
+  <text x="90" y="1645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通</text>
 
   <rect x="80" y="1655" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1655" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华为技术有限公司</text>
-  <text x="90" y="1685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 信创网络安全</text>
+  <text x="90" y="1671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东保伦电子股份有限公司</text>
+  <text x="90" y="1685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="1695" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1695" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华为海思半导体有限公司</text>
-  <text x="90" y="1725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能</text>
+  <text x="90" y="1711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东南方通信建设有限公司</text>
+  <text x="90" y="1725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 低空智慧交通</text>
 
   <rect x="80" y="1735" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1735" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华力创科学（深圳）有限公司</text>
-  <text x="90" y="1765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能</text>
+  <text x="90" y="1751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东新快易通智能信息发展有限公司</text>
+  <text x="90" y="1765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="80" y="1775" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1775" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华章数据技术有限公司</text>
-  <text x="90" y="1805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">交通大数据 · 信创网络安全</text>
+  <text x="90" y="1791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东智慧音视频科技有限公司</text>
+  <text x="90" y="1805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="1815" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1815" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华诺星空技术股份有限公司</text>
-  <text x="90" y="1845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 智慧交通管理</text>
+  <text x="90" y="1831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东汇天航空航天科技有限公司</text>
+  <text x="90" y="1845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 自动驾驶</text>
 
   <rect x="80" y="1855" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1855" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">南京莱斯信息技术股份有限公司</text>
-  <text x="90" y="1885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 低空智慧交通</text>
+  <text x="90" y="1871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东百视特照明电器有限公司</text>
+  <text x="90" y="1885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="80" y="1895" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1895" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">奇安信网神信息技术(北京)股份有限公司</text>
-  <text x="90" y="1925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
+  <text x="90" y="1911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东盛路通信科技股份有限公司</text>
+  <text x="90" y="1925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 自动驾驶</text>
 
   <rect x="80" y="1935" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1935" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">山东新潮信息技术有限公司</text>
-  <text x="90" y="1965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
+  <text x="90" y="1951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东航天七零六信息科技有限公司</text>
+  <text x="90" y="1965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全 · 人工智能</text>
 
   <rect x="80" y="1975" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="1975" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="1991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">峰飞航空科技（深圳）有限公司</text>
-  <text x="90" y="2005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通</text>
+  <text x="90" y="1991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东龙芯中科电子科技有限公司</text>
+  <text x="90" y="2005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全 · 人工智能</text>
 
   <rect x="80" y="2015" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2015" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东保伦电子股份有限公司</text>
-  <text x="90" y="2045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="90" y="2031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州中海达卫星导航技术股份有限公司</text>
+  <text x="90" y="2045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 智慧港航 · 低空智慧交通</text>
 
   <rect x="80" y="2055" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2055" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东南方通信建设有限公司</text>
-  <text x="90" y="2085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 低空智慧交通</text>
+  <text x="90" y="2071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州优路加信息科技有限公司</text>
+  <text x="90" y="2085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 交通大数据</text>
 
   <rect x="80" y="2095" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2095" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东新快易通智能信息发展有限公司</text>
-  <text x="90" y="2125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <text x="90" y="2111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州信盛通信科技有限公司</text>
+  <text x="90" y="2125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 低空智慧交通</text>
 
   <rect x="80" y="2135" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2135" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东智慧音视频科技有限公司</text>
+  <text x="90" y="2151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州元亿商显技术有限公司</text>
   <text x="90" y="2165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="2175" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2175" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东汇天航空航天科技有限公司</text>
-  <text x="90" y="2205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 自动驾驶</text>
+  <text x="90" y="2191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州吉欧电子科技有限公司</text>
+  <text x="90" y="2205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 低空智慧交通</text>
 
   <rect x="80" y="2215" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2215" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东百视特照明电器有限公司</text>
-  <text x="90" y="2245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <text x="90" y="2231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州宸境科技有限公司</text>
+  <text x="90" y="2245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能</text>
 
   <rect x="80" y="2255" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2255" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东盛路通信科技股份有限公司</text>
-  <text x="90" y="2285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 自动驾驶</text>
+  <text x="90" y="2271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州导远电子科技有限公司</text>
+  <text x="90" y="2285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶</text>
 
   <rect x="80" y="2295" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2295" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东航天七零六信息科技有限公司</text>
-  <text x="90" y="2325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全 · 人工智能</text>
+  <text x="90" y="2311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州小马智行科技有限公司</text>
+  <text x="90" y="2325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能</text>
 
   <rect x="80" y="2335" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2335" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东龙芯中科电子科技有限公司</text>
-  <text x="90" y="2365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全 · 人工智能</text>
+  <text x="90" y="2351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州小鹏汽车科技有限公司</text>
+  <text x="90" y="2365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能 · 具身智能</text>
 
   <rect x="80" y="2375" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2375" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州中海达卫星导航技术股份有限公司</text>
+  <text x="90" y="2391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市中海达测绘仪器有限公司</text>
   <text x="90" y="2405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 智慧港航 · 低空智慧交通</text>
 
   <rect x="80" y="2415" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2415" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州优路加信息科技有限公司</text>
-  <text x="90" y="2445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 交通大数据</text>
+  <text x="90" y="2431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市埃特斯通讯设备有限公司</text>
+  <text x="90" y="2445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="80" y="2455" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2455" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州信盛通信科技有限公司</text>
-  <text x="90" y="2485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 低空智慧交通</text>
+  <text x="90" y="2471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市城智电子科技有限公司</text>
+  <text x="90" y="2485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="2495" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2495" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州元亿商显技术有限公司</text>
+  <text x="90" y="2511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市声讯电子科技股份有限公司</text>
   <text x="90" y="2525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="2535" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2535" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州吉欧电子科技有限公司</text>
-  <text x="90" y="2565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 低空智慧交通</text>
+  <text x="90" y="2551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市杜格科技有限公司</text>
+  <text x="90" y="2565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
 
   <rect x="80" y="2575" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2575" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州宸境科技有限公司</text>
-  <text x="90" y="2605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能</text>
+  <text x="90" y="2591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市红棉花职业技能培训学校有限公司</text>
+  <text x="90" y="2605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="2615" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2615" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州导远电子科技有限公司</text>
-  <text x="90" y="2645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶</text>
+  <text x="90" y="2631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市视臻信息科技有限公司</text>
+  <text x="90" y="2645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="2655" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2655" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州小马智行科技有限公司</text>
-  <text x="90" y="2685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能</text>
+  <text x="90" y="2671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州极飞科技股份有限公司</text>
+  <text x="90" y="2685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 人工智能</text>
 
   <rect x="80" y="2695" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2695" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州小鹏汽车科技有限公司</text>
-  <text x="90" y="2725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能 · 具身智能</text>
+  <text x="90" y="2711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州柏瀚信息科技有限公司</text>
+  <text x="90" y="2725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="80" y="2735" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2735" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市中海达测绘仪器有限公司</text>
-  <text x="90" y="2765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 智慧港航 · 低空智慧交通</text>
+  <text x="90" y="2751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州立功科技股份有限公司</text>
+  <text x="90" y="2765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 智慧交通管理</text>
 
   <rect x="80" y="2775" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2775" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市埃特斯通讯设备有限公司</text>
-  <text x="90" y="2805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <text x="90" y="2791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州芯网电子科技有限公司</text>
+  <text x="90" y="2805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 自动驾驶</text>
 
   <rect x="80" y="2815" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2815" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市城智电子科技有限公司</text>
-  <text x="90" y="2845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="90" y="2831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州英码信息科技有限公司</text>
+  <text x="90" y="2845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">人工智能 · 自动驾驶</text>
 
   <rect x="80" y="2855" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2855" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市声讯电子科技股份有限公司</text>
-  <text x="90" y="2885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="90" y="2871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州通达汽车电气股份有限公司</text>
+  <text x="90" y="2885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 湾区MaaS</text>
 
   <rect x="80" y="2895" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2895" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市杜格科技有限公司</text>
-  <text x="90" y="2925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
+  <text x="90" y="2911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州韶创电子科技有限责任公司</text>
+  <text x="90" y="2925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="80" y="2935" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2935" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市红棉花职业技能培训学校有限公司</text>
-  <text x="90" y="2965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="90" y="2951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州高新兴网联科技有限公司</text>
+  <text x="90" y="2965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 智慧公路</text>
 
   <rect x="80" y="2975" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="2975" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="2991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市视臻信息科技有限公司</text>
-  <text x="90" y="3005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="90" y="2991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">成都臻识科技发展有限公司</text>
+  <text x="90" y="3005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧停车 · 人工智能</text>
 
   <rect x="80" y="3015" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="3015" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="3031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州极飞科技股份有限公司</text>
-  <text x="90" y="3045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 人工智能</text>
+  <text x="90" y="3031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">新华三技术有限公司</text>
+  <text x="90" y="3045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全 · 人工智能</text>
 
   <rect x="80" y="3055" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="80" y="3055" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="90" y="3071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州柏瀚信息科技有限公司</text>
-  <text x="90" y="3085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <text x="90" y="3071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">日海智能科技股份有限公司</text>
+  <text x="90" y="3085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
 
   <rect x="1531" y="415" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="415" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">东莞市交通投资控股集团有限公司</text>
-  <text x="1541" y="445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧轨道交通 · 智慧港航</text>
+  <rect x="1531" y="415" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">上海天玑科技股份有限公司</text>
+  <text x="1541" y="445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全</text>
 
   <rect x="1531" y="455" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="455" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中交城市投资控股有限公司</text>
-  <text x="1541" y="485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 湾区MaaS</text>
+  <rect x="1531" y="455" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">东莞市智城科技有限公司</text>
+  <text x="1541" y="485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="495" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="495" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中国交通信息科技集团有限公司</text>
-  <text x="1541" y="525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <rect x="1531" y="495" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中交远洲交通科技集团有限公司</text>
+  <text x="1541" y="525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧轨道交通</text>
 
   <rect x="1531" y="535" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="535" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中国联合网络通信有限公司深圳市分公司</text>
-  <text x="1541" y="565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路 · 交通大数据</text>
+  <rect x="1531" y="535" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中公华通（北京）科技发展有限公司</text>
+  <text x="1541" y="565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="575" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="575" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中山市交通发展集团有限公司</text>
-  <text x="1541" y="605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 湾区MaaS</text>
+  <rect x="1531" y="575" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中大智能科技股份有限公司广东分公司</text>
+  <text x="1541" y="605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
 
   <rect x="1531" y="615" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="615" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中捷通信有限公司</text>
-  <text x="1541" y="645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <rect x="1531" y="615" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中时讯通信建设有限公司</text>
+  <text x="1541" y="645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
 
   <rect x="1531" y="655" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="655" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中移系统集成有限公司广东分公司</text>
-  <text x="1541" y="685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 智慧公路</text>
+  <rect x="1531" y="655" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中瑆科技（广东）有限公司</text>
+  <text x="1541" y="685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="695" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="695" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中车广东轨道交通车辆有限公司</text>
-  <text x="1541" y="725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧轨道交通</text>
+  <rect x="1531" y="695" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中诚金桥工程有限公司</text>
+  <text x="1541" y="725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="1531" y="735" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="735" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中通服建设有限公司</text>
-  <text x="1541" y="765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
+  <rect x="1531" y="735" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">京雄云控（北京）智能交通科技有限公司</text>
+  <text x="1541" y="765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 自动驾驶</text>
 
   <rect x="1531" y="775" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="775" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">佛山市交通投资集团有限公司</text>
-  <text x="1541" y="805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <rect x="1531" y="775" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">信创神州（广东）科技有限公司</text>
+  <text x="1541" y="805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
 
   <rect x="1531" y="815" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="815" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">保利长大工程有限公司</text>
-  <text x="1541" y="845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="1531" y="815" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京久其软件股份有限公司</text>
+  <text x="1541" y="845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="1531" y="855" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="855" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">公诚管理咨询有限公司</text>
-  <text x="1541" y="885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
+  <rect x="1531" y="855" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京公科飞达交通工程发展有限公司</text>
+  <text x="1541" y="885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
 
   <rect x="1531" y="895" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="895" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东利通科技投资有限公司</text>
-  <text x="1541" y="925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 人工智能</text>
+  <rect x="1531" y="895" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京华录高诚科技有限公司</text>
+  <text x="1541" y="925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="1531" y="935" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="935" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东利通置业投资有限公司</text>
-  <text x="1541" y="965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <rect x="1531" y="935" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京天云海星科技有限公司</text>
+  <text x="1541" y="965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="975" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="975" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东华路交通科技有限公司</text>
-  <text x="1541" y="1005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <rect x="1531" y="975" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京小赛网络科技有限公司</text>
+  <text x="1541" y="1005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="1015" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1015" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东南方电信规划咨询设计院有限公司</text>
-  <text x="1541" y="1045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全</text>
+  <rect x="1531" y="1015" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京超图软件股份有限公司广州分公司</text>
+  <text x="1541" y="1045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">交通大数据 · 智慧交通管理 · 智慧公路</text>
 
   <rect x="1531" y="1055" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1055" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东岭南通股份有限公司</text>
-  <text x="1541" y="1085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧停车</text>
+  <rect x="1531" y="1055" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京辰安科技股份有限公司</text>
+  <text x="1541" y="1085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全</text>
 
   <rect x="1531" y="1095" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1095" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东新粤交通投资有限公司</text>
-  <text x="1541" y="1125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <rect x="1531" y="1095" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京逐风科技有限公司</text>
+  <text x="1541" y="1125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="1135" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1135" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东晶通公路工程建设集团有限公司</text>
-  <text x="1541" y="1165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="1531" y="1135" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华设设计集团股份有限公司</text>
+  <text x="1541" y="1165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧轨道交通</text>
 
   <rect x="1531" y="1175" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1175" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省交通规划设计研究院集团股份有限公司</text>
-  <text x="1541" y="1205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧轨道交通</text>
+  <rect x="1531" y="1175" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">合肥冰柏科技有限公司</text>
+  <text x="1541" y="1205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="1215" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1215" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省交通集团有限公司</text>
-  <text x="1541" y="1245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 湾区MaaS · 智慧交通管理</text>
+  <rect x="1531" y="1215" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">吉华安全技术（广州）股份有限公司</text>
+  <text x="1541" y="1245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全</text>
 
   <rect x="1531" y="1255" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1255" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省公路勘察规划设计院有限公司</text>
-  <text x="1541" y="1285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="1531" y="1255" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">同盾科技有限公司</text>
+  <text x="1541" y="1285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 人工智能</text>
 
   <rect x="1531" y="1295" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1295" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省南粤交通投资建设有限公司</text>
-  <text x="1541" y="1325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="1531" y="1295" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">四川易方智慧科技有限公司</text>
+  <text x="1541" y="1325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="1335" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1335" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省建筑工程机械施工有限公司</text>
-  <text x="1541" y="1365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧轨道交通</text>
+  <rect x="1531" y="1335" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">天羿智服（广东）科技有限公司</text>
+  <text x="1541" y="1365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通</text>
 
   <rect x="1531" y="1375" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1375" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省电信规划设计院有限公司</text>
-  <text x="1541" y="1405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
+  <rect x="1531" y="1375" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">奥德梅斯（广州）工业技术有限公司</text>
+  <text x="1541" y="1405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="1415" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1415" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省航运规划设计院有限公司</text>
-  <text x="1541" y="1445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧港航</text>
+  <rect x="1531" y="1415" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东中兴新支点技术有限公司</text>
+  <text x="1541" y="1445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全 · 智慧交通管理</text>
 
   <rect x="1531" y="1455" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1455" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东粤路勘察设计有限公司</text>
-  <text x="1541" y="1485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="1531" y="1455" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东云慧通科技有限公司</text>
+  <text x="1541" y="1485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 交通大数据</text>
 
   <rect x="1531" y="1495" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1495" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东诚泰交通科技发展有限公司</text>
-  <text x="1541" y="1525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <rect x="1531" y="1495" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东云网通信有限公司</text>
+  <text x="1541" y="1525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧停车 · 智慧交通管理</text>
 
   <rect x="1531" y="1535" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1535" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东飞达交通工程有限公司</text>
-  <text x="1541" y="1565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <rect x="1531" y="1535" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东佐辰交通科技有限公司</text>
+  <text x="1541" y="1565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
 
   <rect x="1531" y="1575" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1575" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州中车轨道交通装备有限公司</text>
-  <text x="1541" y="1605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧轨道交通</text>
+  <rect x="1531" y="1575" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东修炼科技股份有限公司</text>
+  <text x="1541" y="1605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="1615" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1615" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州交投机电工程有限公司</text>
+  <rect x="1531" y="1615" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东光迅工程技术有限公司</text>
   <text x="1541" y="1645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
 
   <rect x="1531" y="1655" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1655" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市交通规划研究院有限公司</text>
-  <text x="1541" y="1685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 湾区MaaS</text>
+  <rect x="1531" y="1655" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东冠粤路桥有限公司</text>
+  <text x="1541" y="1685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="1531" y="1695" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1695" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市交通运输研究院有限公司</text>
-  <text x="1541" y="1725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 湾区MaaS</text>
+  <rect x="1531" y="1695" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东凯利智能交通技术有限公司</text>
+  <text x="1541" y="1725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
 
   <rect x="1531" y="1735" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1735" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市城市规划勘测设计研究院有限公司</text>
-  <text x="1541" y="1765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 湾区MaaS</text>
+  <rect x="1531" y="1735" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东北研航空遥感科技有限公司</text>
+  <text x="1541" y="1765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 低空智慧交通</text>
 
   <rect x="1531" y="1775" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1775" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州羊城通有限公司</text>
-  <text x="1541" y="1805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧停车</text>
+  <rect x="1531" y="1775" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东华仝九方科技有限公司</text>
+  <text x="1541" y="1805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="1815" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1815" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">惠州市交通投资集团有限公司</text>
-  <text x="1541" y="1845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <rect x="1531" y="1815" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东华信智能交通科技有限公司</text>
+  <text x="1541" y="1845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
 
   <rect x="1531" y="1855" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1855" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">招商华软信息有限公司</text>
-  <text x="1541" y="1885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
+  <rect x="1531" y="1855" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东合盛智能技术有限公司</text>
+  <text x="1541" y="1885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="1895" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1895" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">江门市交通建设投资集团有限公司</text>
-  <text x="1541" y="1925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="1531" y="1895" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东大仓机器人科技有限公司</text>
+  <text x="1541" y="1925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">人工智能 · 具身智能</text>
 
   <rect x="1531" y="1935" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1935" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳中车轨道交通装备有限公司</text>
-  <text x="1541" y="1965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧轨道交通</text>
+  <rect x="1531" y="1935" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东宜通联云智能信息有限公司</text>
+  <text x="1541" y="1965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="1531" y="1975" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="1975" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="1991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳市城市交通规划设计研究中心股份有限公司</text>
-  <text x="1541" y="2005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 湾区MaaS</text>
+  <rect x="1531" y="1975" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="1991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东宽广科技有限公司</text>
+  <text x="1541" y="2005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="2015" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="2015" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="2031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳市智能交通技术有限公司</text>
-  <text x="1541" y="2045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <rect x="1531" y="2015" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="2031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东广科通立科技有限公司</text>
+  <text x="1541" y="2045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="2055" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="2055" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="2071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">珠海交通控股集团有限公司</text>
-  <text x="1541" y="2085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧港航 · 湾区MaaS</text>
+  <rect x="1531" y="2055" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="2071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东振业优控科技股份有限公司</text>
+  <text x="1541" y="2085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 湾区MaaS</text>
 
   <rect x="1531" y="2095" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="2095" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="2111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">珠海市交通物联网有限公司</text>
-  <text x="1541" y="2125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <rect x="1531" y="2095" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="2111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东敖智科技有限公司</text>
+  <text x="1541" y="2125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
 
   <rect x="1531" y="2135" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="1531" y="2135" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="1541" y="2151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">肇庆市交通集团有限公司</text>
-  <text x="1541" y="2165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="1531" y="2135" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="1541" y="2151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东方纬科技有限公司</text>
+  <text x="1541" y="2165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="1531" y="2175" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2175" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">上海天玑科技股份有限公司</text>
+  <text x="1541" y="2191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东智臣科技有限公司</text>
   <text x="1541" y="2205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全</text>
 
   <rect x="1531" y="2215" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2215" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">东莞市智城科技有限公司</text>
-  <text x="1541" y="2245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="1541" y="2231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东智飞航空技术服务有限公司</text>
+  <text x="1541" y="2245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通</text>
 
   <rect x="1531" y="2255" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2255" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中交远洲交通科技集团有限公司</text>
+  <text x="1541" y="2271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东正方圆工程咨询有限公司</text>
   <text x="1541" y="2285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧轨道交通</text>
 
   <rect x="1531" y="2295" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2295" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中公华通（北京）科技发展有限公司</text>
-  <text x="1541" y="2325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="1541" y="2311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东浪潮软件有限公司</text>
+  <text x="1541" y="2325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="1531" y="2335" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2335" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中大智能科技股份有限公司广东分公司</text>
-  <text x="1541" y="2365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
+  <text x="1541" y="2351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东海欣智能科技有限公司</text>
+  <text x="1541" y="2365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
 
   <rect x="1531" y="2375" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2375" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中时讯通信建设有限公司</text>
-  <text x="1541" y="2405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路</text>
+  <text x="1541" y="2391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东瀚信科技有限公司</text>
+  <text x="1541" y="2405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 交通大数据</text>
 
   <rect x="1531" y="2415" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2415" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中瑆科技（广东）有限公司</text>
-  <text x="1541" y="2445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="1541" y="2431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东瀚宇技术有限公司</text>
+  <text x="1541" y="2445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧公路 · 交通大数据</text>
 
   <rect x="1531" y="2455" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2455" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中诚金桥工程有限公司</text>
-  <text x="1541" y="2485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <text x="1541" y="2471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省低空安全科技有限公司</text>
+  <text x="1541" y="2485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 信创网络安全</text>
 
   <rect x="1531" y="2495" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2495" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">京雄云控（北京）智能交通科技有限公司</text>
-  <text x="1541" y="2525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 自动驾驶</text>
+  <text x="1541" y="2511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省智创未来国际高新技术有限公司</text>
+  <text x="1541" y="2525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="2535" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2535" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">信创神州（广东）科技有限公司</text>
-  <text x="1541" y="2565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">信创网络安全</text>
+  <text x="1541" y="2551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东航鑫工程勘察设计有限公司</text>
+  <text x="1541" y="2565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧港航</text>
 
   <rect x="1531" y="2575" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2575" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京久其软件股份有限公司</text>
-  <text x="1541" y="2605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <text x="1541" y="2591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东艾科智泊科技股份有限公司</text>
+  <text x="1541" y="2605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧停车</text>
 
   <rect x="1531" y="2615" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2615" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京公科飞达交通工程发展有限公司</text>
-  <text x="1541" y="2645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
+  <text x="1541" y="2631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东蔚景科技股份有限公司</text>
+  <text x="1541" y="2645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧停车</text>
 
   <rect x="1531" y="2655" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2655" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京华录高诚科技有限公司</text>
-  <text x="1541" y="2685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <text x="1541" y="2671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东诺丰市政工程设计有限公司</text>
+  <text x="1541" y="2685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理 · 湾区MaaS</text>
 
   <rect x="1531" y="2695" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2695" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京天云海星科技有限公司</text>
-  <text x="1541" y="2725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="1541" y="2711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东赛诺科技股份有限公司</text>
+  <text x="1541" y="2725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全</text>
 
   <rect x="1531" y="2735" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2735" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京小赛网络科技有限公司</text>
-  <text x="1541" y="2765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="1541" y="2751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东运星科技有限公司</text>
+  <text x="1541" y="2765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 人工智能</text>
 
   <rect x="1531" y="2775" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2775" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京超图软件股份有限公司广州分公司</text>
+  <text x="1541" y="2791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东通易科技有限公司</text>
   <text x="1541" y="2805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="1531" y="2815" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2815" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京辰安科技股份有限公司</text>
-  <text x="1541" y="2845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全</text>
+  <text x="1541" y="2831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东道路信息发展有限公司</text>
+  <text x="1541" y="2845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 交通大数据</text>
 
   <rect x="1531" y="2855" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2855" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京逐风科技有限公司</text>
-  <text x="1541" y="2885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="1541" y="2871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东青云直上航空科技有限公司</text>
+  <text x="1541" y="2885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通</text>
 
   <rect x="1531" y="2895" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2895" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华设设计集团股份有限公司</text>
-  <text x="1541" y="2925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧轨道交通</text>
+  <text x="1541" y="2911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东鱼易通技术有限公司</text>
+  <text x="1541" y="2925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="2935" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2935" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">合肥冰柏科技有限公司</text>
-  <text x="1541" y="2965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="1541" y="2951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东鼎尧科技有限公司</text>
+  <text x="1541" y="2965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 智慧交通管理</text>
 
   <rect x="1531" y="2975" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="2975" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="2991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">吉华安全技术（广州）股份有限公司</text>
-  <text x="1541" y="3005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 信创网络安全</text>
+  <text x="1541" y="2991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州中科云图智能科技有限公司</text>
+  <text x="1541" y="3005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 智慧交通管理 · 人工智能</text>
 
   <rect x="1531" y="3015" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="3015" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="3031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">同盾科技有限公司</text>
-  <text x="1541" y="3045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 人工智能</text>
+  <text x="1541" y="3031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州信息投资有限公司</text>
+  <text x="1541" y="3045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="1531" y="3055" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="1531" y="3055" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="1541" y="3071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">四川易方智慧科技有限公司</text>
-  <text x="1541" y="3085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="1541" y="3071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州喜讯智能科技有限公司</text>
+  <text x="1541" y="3085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 人工智能</text>
 
   <rect x="2982" y="415" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="415" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">东莞发展控股股份有限公司</text>
-  <text x="2992" y="445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="415" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中山市国生汽车运输有限公司</text>
+  <text x="2992" y="445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
 
   <rect x="2982" y="455" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="455" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">东莞市路桥投资建设有限公司</text>
-  <text x="2992" y="485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="455" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">丰巢网络技术有限公司</text>
+  <text x="2992" y="485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="2982" y="495" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="495" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中交广连高速公路投资发展有限公司</text>
-  <text x="2992" y="525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="495" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">佛山市广佛通电子收费营运有限公司</text>
+  <text x="2992" y="525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧停车</text>
 
   <rect x="2982" y="535" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="535" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">佛山广明高速公路有限公司</text>
-  <text x="2992" y="565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="535" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京市盈科（广州）律师事务所</text>
+  <text x="2992" y="565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
 
   <rect x="2982" y="575" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="575" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">威盛运输企业有限公司</text>
-  <text x="2992" y="605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
+  <rect x="2982" y="575" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华闳咨询集团有限公司</text>
+  <text x="2992" y="605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
 
   <rect x="2982" y="615" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="615" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">岐关车路有限公司</text>
-  <text x="2992" y="645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
+  <rect x="2982" y="615" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东享飞通用航空有限公司</text>
+  <text x="2992" y="645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通</text>
 
   <rect x="2982" y="655" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="655" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东利通物业发展有限公司</text>
+  <rect x="2982" y="655" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东南方福瑞德律师事务所</text>
   <text x="2992" y="685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
 
   <rect x="2982" y="695" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="695" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东广佛轨道交通有限公司</text>
-  <text x="2992" y="725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧轨道交通 · 湾区MaaS</text>
+  <rect x="2982" y="695" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东南粤通客运联网中心有限公司</text>
+  <text x="2992" y="725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧交通管理</text>
 
   <rect x="2982" y="735" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="735" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东广深高速公路有限公司</text>
+  <rect x="2982" y="735" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东恒泰交通科技发展有限公司</text>
   <text x="2992" y="765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="775" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="775" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东开阳高速公路有限公司</text>
-  <text x="2992" y="805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="775" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东新协力交通股份有限公司</text>
+  <text x="2992" y="805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
 
   <rect x="2982" y="815" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="815" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东河惠高速公路有限公司</text>
-  <text x="2992" y="845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="815" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东正衡税务师事务所有限公司</text>
+  <text x="2992" y="845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
 
   <rect x="2982" y="855" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="855" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东渝湛高速公路有限公司</text>
-  <text x="2992" y="885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="855" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东盈通网络投资有限公司</text>
+  <text x="2992" y="885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 交通大数据</text>
 
   <rect x="2982" y="895" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="895" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东港珠澳大桥穿梭巴士有限公司</text>
-  <text x="2992" y="925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧公路</text>
+  <rect x="2982" y="895" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东车联网信息科技服务有限公司</text>
+  <text x="2992" y="925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 自动驾驶</text>
 
   <rect x="2982" y="935" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="935" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省公路建设有限公司</text>
-  <text x="2992" y="965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="935" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州佳都方纬交通科技有限公司</text>
+  <text x="2992" y="965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧轨道交通</text>
 
   <rect x="2982" y="975" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="975" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省广播电视网络股份有限公司</text>
+  <rect x="2982" y="975" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州博证文化集团有限公司</text>
   <text x="2992" y="1005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
 
   <rect x="2982" y="1015" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1015" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省拱北汽车运输有限责任公司</text>
-  <text x="2992" y="1045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
+  <rect x="2982" y="1015" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州国交润万交通信息有限公司</text>
+  <text x="2992" y="1045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">交通大数据 · 湾区MaaS · 智慧公路</text>
 
   <rect x="2982" y="1055" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1055" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省汽车运输集团有限公司</text>
-  <text x="2992" y="1085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
+  <rect x="2982" y="1055" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州数据交易所有限公司</text>
+  <text x="2992" y="1085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">交通大数据 · 湾区MaaS</text>
 
   <rect x="2982" y="1095" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1095" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省路桥建设发展有限公司</text>
-  <text x="2992" y="1125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="1095" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州文远知行科技有限公司</text>
+  <text x="2992" y="1125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能 · 湾区MaaS</text>
 
   <rect x="2982" y="1135" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1135" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省高速公路发展股份有限公司</text>
-  <text x="2992" y="1165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="1135" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州瀚信通信科技股份有限公司</text>
+  <text x="2992" y="1165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 湾区MaaS · 智慧公路</text>
 
   <rect x="2982" y="1175" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1175" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省高速公路有限公司</text>
-  <text x="2992" y="1205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="1175" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州祺宸科技有限公司</text>
+  <text x="2992" y="1205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 湾区MaaS</text>
 
   <rect x="2982" y="1215" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1215" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东粤运交通股份有限公司</text>
-  <text x="2992" y="1245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧公路</text>
+  <rect x="2982" y="1215" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州航运交易所</text>
+  <text x="2992" y="1245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧港航 · 湾区MaaS</text>
 
   <rect x="2982" y="1255" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1255" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东阳茂高速公路有限公司</text>
-  <text x="2992" y="1285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
+  <rect x="2982" y="1255" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州锐龙供应链有限公司</text>
+  <text x="2992" y="1285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
 
   <rect x="2982" y="1295" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1295" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州中交通信有限公司</text>
+  <rect x="2982" y="1295" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州顺丰速运有限公司</text>
   <text x="2992" y="1325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="2982" y="1335" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1335" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州交通集团物流有限公司</text>
-  <text x="2992" y="1365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <rect x="2982" y="1335" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">汉海信息技术（上海）有限公司</text>
+  <text x="2992" y="1365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
 
   <rect x="2982" y="1375" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1375" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州公交集团新能源发展有限责任公司</text>
-  <text x="2992" y="1405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧停车 · 湾区MaaS</text>
+  <rect x="2982" y="1375" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳智驹云服科技有限公司</text>
+  <text x="2992" y="1405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="2982" y="1415" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1415" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州地铁集团有限公司</text>
-  <text x="2992" y="1445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧轨道交通 · 湾区MaaS</text>
+  <rect x="2982" y="1415" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳美团科技有限公司</text>
+  <text x="2992" y="1445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 低空智慧交通 · 湾区MaaS</text>
 
   <rect x="2982" y="1455" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1455" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州巴士集团有限公司</text>
-  <text x="2992" y="1485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧交通管理</text>
+  <rect x="2982" y="1455" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">滴滴出行科技有限公司</text>
+  <text x="2992" y="1485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 湾区MaaS · 人工智能</text>
 
   <rect x="2982" y="1495" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1495" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市交通站场建设管理中心有限公司</text>
-  <text x="2992" y="1525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧交通管理</text>
+  <rect x="2982" y="1495" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">澳门新福利公共汽车有限公司</text>
+  <text x="2992" y="1525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
 
   <rect x="2982" y="1535" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1535" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市公共交通数据管理中心有限公司</text>
-  <text x="2992" y="1565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 湾区MaaS</text>
+  <rect x="2982" y="1535" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">珠海市珠海通科技有限公司</text>
+  <text x="2992" y="1565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧停车</text>
 
   <rect x="2982" y="1575" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1575" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市智能网联汽车示范区运营中心</text>
-  <text x="2992" y="1605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 智慧交通管理</text>
+  <rect x="2982" y="1575" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">祺迹汽车科技（广州）有限公司</text>
+  <text x="2992" y="1605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 湾区MaaS</text>
 
   <rect x="2982" y="1615" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1615" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州港集团有限公司</text>
-  <text x="2992" y="1645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧港航 · 湾区MaaS</text>
+  <rect x="2982" y="1615" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">蕉岭县公路事务中心</text>
+  <text x="2992" y="1645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="1655" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1655" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州白云国际机场空港快线运输有限公司</text>
-  <text x="2992" y="1685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 低空智慧交通</text>
+  <rect x="2982" y="1655" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">东莞发展控股股份有限公司</text>
+  <text x="2992" y="1685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="1695" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1695" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州白云国际机场股份有限公司</text>
-  <text x="2992" y="1725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 湾区MaaS</text>
+  <rect x="2982" y="1695" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">东莞市路桥投资建设有限公司</text>
+  <text x="2992" y="1725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="1735" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1735" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州长运集团有限公司</text>
-  <text x="2992" y="1765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧公路</text>
+  <rect x="2982" y="1735" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中交广连高速公路投资发展有限公司</text>
+  <text x="2992" y="1765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="1775" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1775" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">招商局港口集团股份有限公司</text>
-  <text x="2992" y="1805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧港航 · 湾区MaaS</text>
+  <rect x="2982" y="1775" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">佛山广明高速公路有限公司</text>
+  <text x="2992" y="1805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="1815" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1815" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳市地铁集团有限公司</text>
-  <text x="2992" y="1845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧轨道交通 · 湾区MaaS</text>
+  <rect x="2982" y="1815" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">威盛运输企业有限公司</text>
+  <text x="2992" y="1845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
 
   <rect x="2982" y="1855" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1855" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳市综合交通运行指挥中心</text>
-  <text x="2992" y="1885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <rect x="2982" y="1855" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">岐关车路有限公司</text>
+  <text x="2992" y="1885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
 
   <rect x="2982" y="1895" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1895" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳高速公路集团股份有限公司</text>
-  <text x="2992" y="1925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 湾区MaaS</text>
+  <rect x="2982" y="1895" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东利通物业发展有限公司</text>
+  <text x="2992" y="1925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
 
   <rect x="2982" y="1935" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1935" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">粤港汽车运输联营有限公司</text>
-  <text x="2992" y="1965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
+  <rect x="2982" y="1935" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东广佛轨道交通有限公司</text>
+  <text x="2992" y="1965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧轨道交通 · 湾区MaaS</text>
 
   <rect x="2982" y="1975" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
-  <rect x="2982" y="1975" width="3" height="36" rx="2" fill="#d97706"/>
-  <text x="2992" y="1991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">越秀（中国）交通基建投资有限公司</text>
+  <rect x="2982" y="1975" width="3" height="36" rx="2" fill="#0891b2"/>
+  <text x="2992" y="1991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东广深高速公路有限公司</text>
   <text x="2992" y="2005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="2015" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2015" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">中山市国生汽车运输有限公司</text>
-  <text x="2992" y="2045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
+  <text x="2992" y="2031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东开阳高速公路有限公司</text>
+  <text x="2992" y="2045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="2055" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2055" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">丰巢网络技术有限公司</text>
-  <text x="2992" y="2085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="2992" y="2071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东河惠高速公路有限公司</text>
+  <text x="2992" y="2085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="2095" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2095" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">佛山市广佛通电子收费营运有限公司</text>
-  <text x="2992" y="2125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧停车</text>
+  <text x="2992" y="2111" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东渝湛高速公路有限公司</text>
+  <text x="2992" y="2125" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="2135" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2135" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">北京市盈科（广州）律师事务所</text>
-  <text x="2992" y="2165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
+  <text x="2992" y="2151" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东港珠澳大桥穿梭巴士有限公司</text>
+  <text x="2992" y="2165" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧公路</text>
 
   <rect x="2982" y="2175" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2175" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">华闳咨询集团有限公司</text>
-  <text x="2992" y="2205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
+  <text x="2992" y="2191" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省公路建设有限公司</text>
+  <text x="2992" y="2205" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="2215" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2215" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东享飞通用航空有限公司</text>
-  <text x="2992" y="2245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通</text>
+  <text x="2992" y="2231" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省广播电视网络股份有限公司</text>
+  <text x="2992" y="2245" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
 
   <rect x="2982" y="2255" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2255" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东南方福瑞德律师事务所</text>
-  <text x="2992" y="2285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
+  <text x="2992" y="2271" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省拱北汽车运输有限责任公司</text>
+  <text x="2992" y="2285" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
 
   <rect x="2982" y="2295" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2295" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东南粤通客运联网中心有限公司</text>
-  <text x="2992" y="2325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧交通管理</text>
+  <text x="2992" y="2311" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省汽车运输集团有限公司</text>
+  <text x="2992" y="2325" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
 
   <rect x="2982" y="2335" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2335" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东恒泰交通科技发展有限公司</text>
+  <text x="2992" y="2351" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省路桥建设发展有限公司</text>
   <text x="2992" y="2365" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="2375" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2375" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东新协力交通股份有限公司</text>
-  <text x="2992" y="2405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
+  <text x="2992" y="2391" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省高速公路发展股份有限公司</text>
+  <text x="2992" y="2405" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="2415" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2415" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东正衡税务师事务所有限公司</text>
-  <text x="2992" y="2445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
+  <text x="2992" y="2431" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东省高速公路有限公司</text>
+  <text x="2992" y="2445" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="2455" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2455" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东盈通网络投资有限公司</text>
-  <text x="2992" y="2485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 交通大数据</text>
+  <text x="2992" y="2471" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东粤运交通股份有限公司</text>
+  <text x="2992" y="2485" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧公路</text>
 
   <rect x="2982" y="2495" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2495" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东车联网信息科技服务有限公司</text>
-  <text x="2992" y="2525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路 · 自动驾驶</text>
+  <text x="2992" y="2511" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广东阳茂高速公路有限公司</text>
+  <text x="2992" y="2525" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧公路</text>
 
   <rect x="2982" y="2535" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2535" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州佳都方纬交通科技有限公司</text>
-  <text x="2992" y="2565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧轨道交通</text>
+  <text x="2992" y="2551" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州中交通信有限公司</text>
+  <text x="2992" y="2565" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 智慧港航 · 交通大数据</text>
 
   <rect x="2982" y="2575" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2575" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州博证文化集团有限公司</text>
-  <text x="2992" y="2605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8"></text>
+  <text x="2992" y="2591" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州交通集团物流有限公司</text>
+  <text x="2992" y="2605" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
 
   <rect x="2982" y="2615" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2615" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州国交润万交通信息有限公司</text>
-  <text x="2992" y="2645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <text x="2992" y="2631" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州公交集团新能源发展有限责任公司</text>
+  <text x="2992" y="2645" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧停车 · 湾区MaaS</text>
 
   <rect x="2982" y="2655" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2655" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州数据交易所有限公司</text>
-  <text x="2992" y="2685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">交通大数据 · 湾区MaaS</text>
+  <text x="2992" y="2671" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州地铁集团有限公司</text>
+  <text x="2992" y="2685" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧轨道交通 · 湾区MaaS</text>
 
   <rect x="2982" y="2695" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2695" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州文远知行科技有限公司</text>
-  <text x="2992" y="2725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 人工智能 · 湾区MaaS</text>
+  <text x="2992" y="2711" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州巴士集团有限公司</text>
+  <text x="2992" y="2725" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧交通管理</text>
 
   <rect x="2982" y="2735" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2735" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州瀚信通信科技股份有限公司</text>
-  <text x="2992" y="2765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <text x="2992" y="2751" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市交通站场建设管理中心有限公司</text>
+  <text x="2992" y="2765" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧交通管理</text>
 
   <rect x="2982" y="2775" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2775" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州祺宸科技有限公司</text>
-  <text x="2992" y="2805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 湾区MaaS</text>
+  <text x="2992" y="2791" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市公共交通数据管理中心有限公司</text>
+  <text x="2992" y="2805" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据 · 湾区MaaS</text>
 
   <rect x="2982" y="2815" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2815" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州航运交易所</text>
-  <text x="2992" y="2845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧港航 · 湾区MaaS</text>
+  <text x="2992" y="2831" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州市智能网联汽车示范区运营中心</text>
+  <text x="2992" y="2845" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 智慧交通管理</text>
 
   <rect x="2982" y="2855" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2855" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州锐龙供应链有限公司</text>
-  <text x="2992" y="2885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理</text>
+  <text x="2992" y="2871" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州港集团有限公司</text>
+  <text x="2992" y="2885" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧港航 · 湾区MaaS</text>
 
   <rect x="2982" y="2895" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2895" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州顺丰速运有限公司</text>
-  <text x="2992" y="2925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <text x="2992" y="2911" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州白云国际机场空港快线运输有限公司</text>
+  <text x="2992" y="2925" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 低空智慧交通</text>
 
   <rect x="2982" y="2935" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2935" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">汉海信息技术（上海）有限公司</text>
-  <text x="2992" y="2965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS</text>
+  <text x="2992" y="2951" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州白云国际机场股份有限公司</text>
+  <text x="2992" y="2965" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">低空智慧交通 · 湾区MaaS</text>
 
   <rect x="2982" y="2975" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="2975" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="2991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳智驹云服科技有限公司</text>
-  <text x="2992" y="3005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧交通管理 · 交通大数据</text>
+  <text x="2992" y="2991" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">广州长运集团有限公司</text>
+  <text x="2992" y="3005" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">湾区MaaS · 智慧公路</text>
 
   <rect x="2982" y="3015" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="3015" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="3031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳美团科技有限公司</text>
-  <text x="2992" y="3045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 低空智慧交通 · 湾区MaaS</text>
+  <text x="2992" y="3031" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">招商局港口集团股份有限公司</text>
+  <text x="2992" y="3045" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧港航 · 湾区MaaS</text>
 
   <rect x="2982" y="3055" width="1431" height="36" rx="4" fill="white" stroke="#e2e8f0" filter="url(#shadow)"/>
   <rect x="2982" y="3055" width="3" height="36" rx="2" fill="#0891b2"/>
-  <text x="2992" y="3071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">滴滴出行科技有限公司</text>
-  <text x="2992" y="3085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">自动驾驶 · 湾区MaaS · 人工智能</text>
+  <text x="2992" y="3071" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#1e293b" font-weight="600">深圳市地铁集团有限公司</text>
+  <text x="2992" y="3085" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#94a3b8">智慧轨道交通 · 湾区MaaS</text>
 
   <line x1="80" y1="3138" x2="4414" y2="3138" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="2247" y="3160" text-anchor="middle" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#94a3b8">广东省智能交通协会 编制 · 2026年版 · 共收录 397 家企业/机构</text>
+  <text x="2247" y="3160" text-anchor="middle" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11" fill="#94a3b8">广东省智能交通协会 编制 · 2026年版 · 共收录 417 家企业/机构</text>
 
 </svg>
