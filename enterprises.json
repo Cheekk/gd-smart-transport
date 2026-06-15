@@ -1,35 +1,35 @@
 {
-  "total": 417,
+  "total": 456,
   "by_type": {
-    "央国企": 95,
-    "民企": 285,
+    "国央企": 101,
+    "民企": 318,
     "科研机构": 37
   },
   "by_tier": {
-    "上游技术": 156,
-    "中游集成": 190,
-    "下游应用": 71
+    "中游集成": 264,
+    "上游技术": 119,
+    "下游应用": 73
   },
   "by_scenario": {
-    "湾区MaaS": 67,
-    "智慧公路": 130,
-    "交通大数据": 92,
-    "智慧交通管理": 250,
-    "智慧轨道交通": 22,
-    "人工智能": 73,
+    "智慧交通管理": 256,
+    "智慧公路": 129,
+    "人工智能": 95,
+    "交通大数据": 93,
+    "自动驾驶": 74,
+    "智慧出行服务": 73,
+    "具身智能": 33,
     "信创网络安全": 32,
-    "自动驾驶": 64,
-    "智慧停车": 14,
-    "具身智能": 3,
-    "智慧港航": 20,
-    "低空智慧交通": 45
+    "低空智慧交通": 31,
+    "智慧轨道交通": 22,
+    "智慧港航": 15,
+    "智慧停车": 14
   },
   "enterprises": {
     "广东联合电子服务股份有限公司": {
-      "type": "央国企",
-      "tier": "上游技术",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧公路",
         "交通大数据"
       ],
@@ -52,16 +52,18 @@
       "role": "ETC系统研发·交通大数据",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.96533.com",
+      "logo": "https://www.96533.com/favicon.ico"
     },
     "佳都科技集团股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "智慧轨道交通",
         "人工智能",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "统一信控平台",
@@ -78,11 +80,16 @@
       "qualifications": [
         "A股上市(600728)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.pcitech.com",
+      "logo": "https://pcitech.com/favicon.ico"
     },
     "华为技术有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
@@ -101,11 +108,15 @@
       "qualifications": [
         "世界500强",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.huawei.com"
     },
     "百度在线网络技术（北京）有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "自动驾驶",
         "智慧交通管理",
@@ -122,11 +133,16 @@
       "qualifications": [
         "纳斯达克上市(BIDU)",
         "港股上市(9888.HK)"
-      ]
+      ],
+      "website": "https://www.baidu.com",
+      "logo": "https://baidu.com/favicon.ico"
     },
     "深圳市金溢科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "自动驾驶",
@@ -144,11 +160,15 @@
       "qualifications": [
         "A股上市(002869)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.genvict.com"
     },
     "华为海思半导体有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -162,15 +182,19 @@
       "role": "AI芯片·车载芯片",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.hisilicon.com"
     },
     "高新兴科技集团股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
-        "湾区MaaS",
+        "智慧出行服务",
         "自动驾驶"
       ],
       "products": [
@@ -190,11 +214,14 @@
       "qualifications": [
         "A股上市(300098)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gosuncn.com"
     },
     "广州小鹏汽车科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能",
@@ -213,11 +240,15 @@
         "港股上市(9868.HK)",
         "NYSE上市(XPEV)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.xiaopeng.com",
+      "logo": "https://xiaopeng.com/favicon.ico"
     },
     "北京万集科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧公路",
         "自动驾驶"
@@ -233,11 +264,13 @@
       "qualifications": [
         "A股上市(300552)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.wanji.net.cn",
+      "logo": "https://wanji.net.cn/favicon.ico"
     },
     "北京启明星辰信息安全技术有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -252,15 +285,16 @@
       "qualifications": [
         "A股上市(002439)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.venustech.com.cn"
     },
     "广州中海达卫星导航技术股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
-        "自动驾驶",
-        "智慧港航",
-        "低空智慧交通"
+        "自动驾驶"
       ],
       "products": [
         "高精度定位",
@@ -273,11 +307,15 @@
       "qualifications": [
         "A股上市(300177)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.hi-target.com.cn"
     },
     "广东新快易通智能信息发展有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -288,15 +326,23 @@
       ],
       "description": "聚焦高速公路智能收费及交通信息服务。",
       "role": "ETC收费·交通信息服务",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.xinkuaiyitong.com"
     },
     "广州交信投科技股份有限公司": {
-      "type": "央国企",
-      "tier": "上游技术",
+      "type": "国央企",
+      "tier": [
+        "上游技术",
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "智慧公交大脑",
@@ -309,11 +355,12 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": "http://www.gci-china.com"
     },
     "深圳市易行网数字科技有限公司": {
-      "type": "央国企",
-      "tier": "上游技术",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -324,11 +371,14 @@
       ],
       "description": "深圳市交通运输局下属数字化服务平台。",
       "role": "交通运行监测·数据平台",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.yixingwang.com"
     },
     "云念软件（广东）有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -339,11 +389,15 @@
       ],
       "description": "软件企业，为交通行业提供管理和数据分析软件。",
       "role": "交通管理软件",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "软件企业"
+      ],
+      "website": "https://www.yunnian.com"
     },
     "中电科普天科技股份有限公司": {
-      "type": "央国企",
-      "tier": "上游技术",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "信创网络安全"
@@ -358,14 +412,14 @@
       "qualifications": [
         "A股上市(002544)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.cetcpx.com"
     },
     "广州信盛通信科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
-        "智慧公路",
-        "低空智慧交通"
+        "智慧公路"
       ],
       "products": [
         "通信基础设施",
@@ -374,14 +428,17 @@
       ],
       "description": "通信基础设施建设及服务商。",
       "role": "通信基础设施·5G基站",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "通信工程施工总承包资质"
+      ],
+      "website": "https://www.xinsheng-tx.com"
     },
     "广东南方通信建设有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
-        "智慧公路",
-        "低空智慧交通"
+        "智慧公路"
       ],
       "products": [
         "通信网络建设",
@@ -390,11 +447,16 @@
       ],
       "description": "通信网络建设和维护服务商。",
       "role": "通信网络建设·5G部署",
-      "qualifications": []
+      "qualifications": [
+        "通信工程施工总承包一级",
+        "国家高新技术企业",
+        "ISO9001质量管理体系"
+      ],
+      "website": "https://www.nfcc.com.cn"
     },
     "广州柏瀚信息科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -405,11 +467,15 @@
       ],
       "description": "交通信息化和数据服务企业。",
       "role": "交通数据·信息化系统",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.baihaninfo.com"
     },
     "广州优路加信息科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "交通大数据"
@@ -420,11 +486,17 @@
       ],
       "description": "高速公路信息化服务商。",
       "role": "高速信息化·路况服务",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "双软企业"
+      ],
+      "website": "https://www.u-road.com"
     },
     "广东利通科技投资有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
@@ -469,13 +541,17 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": "https://www.letone.cn"
     },
     "广东岭南通股份有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧停车"
       ],
       "products": [
@@ -488,14 +564,18 @@
       "role": "一卡通系统·跨区支付",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.lingnanpass.com"
     },
     "广州羊城通有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS",
+        "智慧出行服务",
         "交通大数据",
         "智慧停车"
       ],
@@ -524,16 +604,18 @@
       "role": "电子支付·出行平台",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东振业优控科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
-        "湾区MaaS",
-        "低空智慧交通"
+        "智慧出行服务"
       ],
       "products": [
         "城市交通治堵方案",
@@ -555,11 +637,14 @@
       "qualifications": [
         "新三板上市",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zyuc.com"
     },
     "广州市微柏软件股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧轨道交通"
@@ -579,11 +664,14 @@
       "qualifications": [
         "新三板上市(837619)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.weiboyi.com"
     },
     "广东飞达交通工程有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -596,11 +684,14 @@
       "role": "高速机电集成",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gdfeida.com"
     },
     "中交远洲交通科技集团有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧轨道交通"
@@ -614,11 +705,14 @@
       "role": "交通规划·工程设计",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zjzjt.com"
     },
     "广东瀚信科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
@@ -632,11 +726,14 @@
       "role": "高速机电·系统集成",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gdhanxin.com"
     },
     "广东通易科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -649,11 +746,14 @@
       "role": "交通信息化·电子政务",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.tongyitech.com"
     },
     "广州市学塾加软件科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -668,11 +768,14 @@
       "role": "交通仿真·数据分析",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.xueshujia.com"
     },
     "广东蔚景科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧停车"
@@ -685,11 +788,15 @@
       "role": "充电桩运营·新能源",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.vejing.com",
+      "logo": "https://vejing.com/favicon.ico"
     },
     "广东运星科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -703,11 +810,14 @@
       "role": "交通数据·智能系统",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.yunxingtech.com"
     },
     "广东智臣科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "信创网络安全"
@@ -721,11 +831,14 @@
       "role": "智能安防·信息化集成",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zhichentech.com"
     },
     "广东云慧通科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
@@ -740,15 +853,18 @@
       "role": "云计算·数据管理",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.yunhuitong.com"
     },
     "广州运星科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "交通大数据",
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧交通管理"
       ],
       "products": [
@@ -761,11 +877,14 @@
       "role": "交通数据·高速监控",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.yunxingtech.com"
     },
     "广东广科通立科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -776,11 +895,14 @@
       "role": "智能交通管控",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gktech.com"
     },
     "广州喜讯智能科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -793,14 +915,17 @@
       "role": "智能检测·AI应用",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gdxixun.com"
     },
     "滴滴出行科技有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "自动驾驶",
-        "湾区MaaS",
+        "智慧出行服务",
         "人工智能"
       ],
       "products": [
@@ -813,13 +938,16 @@
       "qualifications": [
         "NYSE上市(DIDI)",
         "独角兽企业"
-      ]
+      ],
+      "website": "https://www.didiglobal.com"
     },
     "广东粤运交通股份有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧公路"
       ],
       "products": [
@@ -831,14 +959,16 @@
       "role": "道路客运·服务区运营",
       "qualifications": [
         "港股上市(03399)"
-      ]
+      ],
+      "website": "https://www.gdyueyun.com"
     },
     "广州白云国际机场股份有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "低空智慧交通",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "机场运营",
@@ -849,11 +979,13 @@
       "qualifications": [
         "A股上市(600004)",
         "广州市属国企"
-      ]
+      ],
+      "website": "https://www.gbiac.net",
+      "logo": "https://www.gbiac.net/favicon.ico"
     },
     "广东盈通网络投资有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "交通大数据"
@@ -864,11 +996,15 @@
       ],
       "description": "通信网络投资运营服务商。",
       "role": "通信运营·交通信息服务",
-      "qualifications": []
+      "qualifications": [
+        "增值电信业务经营许可证",
+        "ISP资质"
+      ],
+      "website": "https://www.yingtongnet.com"
     },
     "广东车联网信息科技服务有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "自动驾驶"
@@ -879,11 +1015,15 @@
       ],
       "description": "车联网信息服务和平台运营。",
       "role": "车联网平台·车载服务",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "车联网服务平台资质"
+      ],
+      "website": "https://www.gdcar-net.com"
     },
     "广州佳都方纬交通科技有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "智慧轨道交通"
@@ -894,11 +1034,16 @@
       ],
       "description": "佳都科技旗下，专注城市交通信号控制和路口智能化。",
       "role": "信号控制·智慧路口",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "佳都科技集团成员企业"
+      ],
+      "website": "https://www.pcitech.com",
+      "logo": "https://pcitech.com/favicon.ico"
     },
     "广东恒泰交通科技发展有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路"
       ],
@@ -907,11 +1052,17 @@
       ],
       "description": "交通科技发展和设备供应。",
       "role": "交通科技设备",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.hengtaijt.com"
     },
     "华南理工大学智能交通系统与物流技术研究所": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -926,11 +1077,14 @@
       "role": "科研·人才培养",
       "qualifications": [
         "双一流高校科研机构"
-      ]
+      ],
+      "website": "https://www2.scut.edu.cn/jtxy"
     },
     "广东省交通运输规划研究中心": {
       "type": "科研机构",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -944,10 +1098,11 @@
       "role": "政策研究·规划编制",
       "qualifications": [
         "省级研究机构"
-      ]
+      ],
+      "website": ""
     },
     "广东省交通规划设计研究院集团股份有限公司": {
-      "type": "央国企",
+      "type": "国央企",
       "tier": "中游集成",
       "scenarios": [
         "智慧公路",
@@ -960,14 +1115,19 @@
       ],
       "description": "省级交通规划设计龙头机构。",
       "role": "交通规划·勘察设计",
-      "qualifications": []
+      "qualifications": [
+        "工程设计综合甲级资质",
+        "工程勘察综合甲级资质",
+        "国家高新技术企业"
+      ],
+      "website": "https://www.ghdi.com.cn"
     },
     "广州市交通规划研究院有限公司": {
-      "type": "央国企",
+      "type": "国央企",
       "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "城市交通规划",
@@ -976,10 +1136,14 @@
       ],
       "description": "广州市级交通规划研究机构。",
       "role": "城市交通规划·TOD咨询",
-      "qualifications": []
+      "qualifications": [
+        "城乡规划编制甲级资质",
+        "工程咨询甲级资信"
+      ],
+      "website": ""
     },
     "深圳市综合交通运行指挥中心": {
-      "type": "央国企",
+      "type": "国央企",
       "tier": "下游应用",
       "scenarios": [
         "智慧交通管理",
@@ -992,11 +1156,14 @@
       ],
       "description": "深圳市交通运输局下属交通运行管理机构。",
       "role": "交通监测·指挥调度",
-      "qualifications": []
+      "qualifications": [
+        "深圳市交通运输局直属事业单位"
+      ],
+      "website": ""
     },
     "广东交通职业技术学院智慧交通工程学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -1010,11 +1177,14 @@
       "role": "人才培养·产学研",
       "qualifications": [
         "国家示范性高职"
-      ]
+      ],
+      "website": "https://www.gdcp.edu.cn"
     },
     "中山大学智能工程学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能",
@@ -1029,11 +1199,14 @@
       "role": "科研·自动驾驶算法",
       "qualifications": [
         "双一流高校"
-      ]
+      ],
+      "website": "https://ise.sysu.edu.cn"
     },
     "华南理工大学土木与交通学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧轨道交通"
@@ -1048,11 +1221,12 @@
       "qualifications": [
         "双一流高校",
         "985工程"
-      ]
+      ],
+      "website": "https://www2.scut.edu.cn/jtxy"
     },
     "广州铁路职业技术学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧轨道交通"
       ],
@@ -1064,11 +1238,12 @@
       "role": "轨道交通人才培养",
       "qualifications": [
         "国家骨干高职"
-      ]
+      ],
+      "website": ""
     },
     "中国联合网络通信有限公司广东省分公司": {
-      "type": "央国企",
-      "tier": "上游技术",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
@@ -1084,19 +1259,17 @@
       "qualifications": [
         "A股上市(600050)",
         "央企"
-      ]
+      ],
+      "website": "https://www.chinaunicom.com.cn"
     },
     "广州智臣信息科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
-        "交通大数据",
-        "低空智慧交通",
-        "湾区MaaS",
-        "智慧港航",
-        "智慧公路",
-        "自动驾驶"
+        "交通大数据"
       ],
       "products": [
         "信息化系统集成",
@@ -1106,11 +1279,15 @@
         "智臣数据安全单向导入平台"
       ],
       "description": "信息化和数据服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "软件企业"
+      ],
+      "website": "https://www.zhichentech.com"
     },
     "北京天融信网络安全技术有限公司广州分公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -1124,11 +1301,14 @@
       "qualifications": [
         "A股上市(002212)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.topsec.com.cn"
     },
     "北京小赛网络科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -1137,11 +1317,15 @@
         "软件开发"
       ],
       "description": "网络技术和软件开发企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "软件企业"
+      ],
+      "website": "https://www.xiaosai.com"
     },
     "北京网御星云信息技术有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -1151,11 +1335,18 @@
         "威胁检测与响应"
       ],
       "description": "启明星辰旗下，专注云安全和安全运营服务。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "启明星辰集团成员企业",
+        "信息安全服务资质"
+      ],
+      "website": "https://www.leadsec.com.cn"
     },
     "中时讯通信建设有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -1169,11 +1360,12 @@
       "description": "原广东省邮电管理局下属企业，专注通信网络建设和智慧信息化工程，涵盖智慧城市、云服务、数据中心等领域。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东省南粤交通投资建设有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧公路"
       ],
@@ -1183,11 +1375,16 @@
         "交通基础设施投融资"
       ],
       "description": "广东省属国有交通基础设施投融资和建设运营平台，负责政府还贷高速公路的投资、建设和运营管理。",
-      "qualifications": []
+      "qualifications": [
+        "广东省属国有重点企业"
+      ],
+      "website": ""
     },
     "广州市上赛交通科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -1199,11 +1396,14 @@
       "description": "交通科技产品和设备供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.shangsai.com"
     },
     "广州弘度信息科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -1215,11 +1415,12 @@
       "description": "信息化和数据服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.hongdu-tech.com"
     },
     "深圳智驹云服科技有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -1232,11 +1433,14 @@
       "description": "智慧公交和出行数据服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zhijuyunfu.com"
     },
     "广东诚泰交通科技发展有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -1252,11 +1456,12 @@
         "专精特新小巨人",
         "国家高新技术企业",
         "省级企业技术中心"
-      ]
+      ],
+      "website": "https://www.cttraffic.com"
     },
     "广东航天七零六信息科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全",
         "人工智能"
@@ -1269,14 +1474,18 @@
       "description": "航天科工旗下，专注信创终端及信息安全产品研发，为交通行业提供国产化替代方案。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.ht706.com"
     },
     "广州广电运通智能科技有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
         "智慧轨道交通",
-        "湾区MaaS",
+        "智慧出行服务",
         "人工智能"
       ],
       "products": [
@@ -1289,15 +1498,16 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": "https://www.grgbanking.com"
     },
     "广州市公共交通数据管理中心有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "公共交通数据管理",
@@ -1309,11 +1519,12 @@
       "description": "广州市公共交通数据管理和信息服务平台。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳市新创中天信息科技发展有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -1325,14 +1536,16 @@
       "description": "交通视频分析和智能感知设备供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.xczt.com.cn"
     },
     "广州白云国际机场空港快线运输有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS",
-        "低空智慧交通"
+        "智慧出行服务"
       ],
       "products": [
         "机场快线运输",
@@ -1341,14 +1554,15 @@
       "description": "白云机场配套地面运输服务企业，提供机场快线和空港客运服务。",
       "qualifications": [
         "广州市属国企"
-      ]
+      ],
+      "website": "https://www.gbiac.net"
     },
     "广州国交润万交通信息有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "交通大数据",
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧公路",
         "智慧交通管理"
       ],
@@ -1368,11 +1582,12 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": "https://www.gjrw.com"
     },
     "亚信安全科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -1386,14 +1601,15 @@
       "qualifications": [
         "A股上市(688225)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.asiainfo-sec.com"
     },
     "广州瀚信通信科技股份有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧公路",
         "交通大数据"
       ],
@@ -1406,11 +1622,17 @@
         "瀚信Dubhe智慧交通大数据平台"
       ],
       "description": "通信网络优化和大数据分析服务商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "通信信息网络系统集成甲级资质"
+      ],
+      "website": "https://www.hantel.com.cn"
     },
     "北京天云海星科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -1419,15 +1641,19 @@
         "信息化平台"
       ],
       "description": "云计算和信息化服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "ISO9001质量管理体系"
+      ],
+      "website": "https://www.tianyunhaixing.com"
     },
     "广州市交通运输研究院有限公司": {
-      "type": "央国企",
+      "type": "国央企",
       "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "交通政策研究",
@@ -1435,19 +1661,22 @@
         "交通数据分析"
       ],
       "description": "广州市级交通运输研究机构，为政府提供交通政策研究和规划服务。",
-      "qualifications": []
+      "qualifications": [
+        "工程咨询甲级资信",
+        "城乡规划编制资质"
+      ],
+      "website": "https://www.gztri.com",
+      "logo": "https://gztri.com/favicon.ico"
     },
     "广州中交通信有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
-        "智慧港航",
         "交通大数据",
         "智慧公路",
         "自动驾驶",
-        "低空智慧交通",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "内角斗锚块",
@@ -1463,11 +1692,12 @@
       "description": "交通通信和信息服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gzztx.com"
     },
     "广州英码信息科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "人工智能",
         "自动驾驶"
@@ -1480,11 +1710,14 @@
       "description": "AI边缘计算方案提供商，产品应用于智能交通视觉分析和车路协同场景。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.yingma-ai.com"
     },
     "广东华路交通科技有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -1499,18 +1732,20 @@
       "qualifications": [
         "国家高新技术企业",
         "甲级监理资质"
-      ]
+      ],
+      "website": "https://www.gdhualu.com"
     },
     "视云融聚（广州）科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧公路",
         "自动驾驶",
-        "人工智能",
-        "低空智慧交通"
+        "人工智能"
       ],
       "products": [
         "智能视频分析",
@@ -1521,11 +1756,17 @@
         "AI事件检测系统"
       ],
       "description": "视频融合和智能分析技术提供商，产品应用于交通指挥调度场景。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.shiyunrongju.com"
     },
     "西湾智慧（广东）信息科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -1536,11 +1777,15 @@
         "GIS地理信息系统"
       ],
       "description": "智慧城市和地理信息系统服务商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "测绘资质"
+      ],
+      "website": "https://www.xiwanzhihui.com"
     },
     "广州市鑫广飞信息科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "智慧交通管理",
         "低空智慧交通"
@@ -1553,11 +1798,12 @@
       "description": "无人机应用和低空遥感信息服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.xinguangfei.com"
     },
     "广州中科云图智能科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "低空智慧交通",
         "智慧交通管理",
@@ -1573,11 +1819,14 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": "https://www.geoai.com"
     },
     "中大智能科技股份有限公司广东分公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -1587,11 +1836,17 @@
         "工程检测服务"
       ],
       "description": "工程检测和智能检测服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "检验检测机构资质认定(CMA)",
+        "CNAS认可"
+      ],
+      "website": "https://www.zdzn.com.cn"
     },
     "广东海欣智能科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -1603,15 +1858,18 @@
       "description": "智能交通和AI应用开发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.haixinzn.com"
     },
     "广东诺丰市政工程设计有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "交通规划咨询",
@@ -1624,11 +1882,12 @@
       "description": "市政和交通工程设计服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.nuofengsz.com"
     },
     "中国联合网络通信有限公司中山市分公司": {
-      "type": "央国企",
-      "tier": "上游技术",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -1641,11 +1900,13 @@
       "description": "中国联通中山分公司，为中山智慧交通提供通信基础设施服务。",
       "qualifications": [
         "央企"
-      ]
+      ],
+      "website": "https://www.chinaunicom.com.cn",
+      "logo": "https://www.chinaunicom.com.cn/favicon.ico"
     },
     "广东智慧音视频科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -1657,11 +1918,14 @@
       "description": "智能音视频设备供应商，产品应用于交通广播和语音播报。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zh-av.com"
     },
     "广州火鹰信息科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -1672,11 +1936,15 @@
       "description": "信息化和软件开发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.firehawktech.com",
+      "logo": "https://firehawktech.com/favicon.ico"
     },
     "广州大学土木工程学院交通运输研究中心": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -1689,11 +1957,14 @@
       "description": "广州大学下属交通运输研究中心，开展交通工程科研和人才培养。",
       "qualifications": [
         "省属高校科研机构"
-      ]
+      ],
+      "website": ""
     },
     "广东华信智能交通科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -1706,11 +1977,14 @@
       "description": "专注智能交通系统集成和交通信息化平台建设。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gdhxjt.com"
     },
     "广州科灿信息科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -1721,11 +1995,14 @@
       "description": "信息技术服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.kecaninfo.com"
     },
     "广州市宏方网络科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -1738,11 +2015,12 @@
       "description": "网络和通信系统集成服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.hongfangnet.com"
     },
     "广州市交通运输职业学校": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -1753,11 +2031,12 @@
       "description": "交通运输类职业教育学校，培养交通行业技能人才。",
       "qualifications": [
         "国家重点中职"
-      ]
+      ],
+      "website": "https://www.gzjtxx.net"
     },
     "广东北研航空遥感科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "智慧交通管理",
         "低空智慧交通"
@@ -1780,7 +2059,8 @@
       "description": "航空遥感和无人机应用服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.beiyanuav.com"
     },
     "云宏信息科技股份有限公司": {
       "type": "民企",
@@ -1799,11 +2079,15 @@
       "qualifications": [
         "专精特新小巨人",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.winhong.com",
+      "logo": "https://winhong.com/favicon.ico"
     },
     "广州普勒仕交通科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -1815,11 +2099,14 @@
       "description": "交通检测设备和信息系统服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.pulashi.com"
     },
     "广东佐辰交通科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -1831,11 +2118,14 @@
       "description": "交通科技产品和智能设备供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zuochenjt.com"
     },
     "广州交通集团物流有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -1846,13 +2136,19 @@
         "仓储配送"
       ],
       "description": "广州交通集团下属物流企业，提供交通物流和供应链管理服务。",
-      "qualifications": []
+      "qualifications": [
+        "道路运输经营许可证",
+        "广州交通集团成员企业"
+      ],
+      "website": ""
     },
     "广州市交通站场建设管理中心有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧交通管理"
       ],
       "products": [
@@ -1861,11 +2157,16 @@
         "交通枢纽服务"
       ],
       "description": "广州市属交通站场建设和管理机构，负责客运站、公交站场等交通枢纽运营管理。",
-      "qualifications": []
+      "qualifications": [
+        "广州市属交通枢纽运营单位"
+      ],
+      "website": ""
     },
     "北京公科飞达交通工程发展有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -1878,11 +2179,14 @@
       "description": "交通运输部公路科学研究院下属，专注高速公路机电工程和智能交通系统集成。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "浩鲸云计算科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -1897,11 +2201,15 @@
       "description": "全球领先的数智化全栈能力提供商（前身中兴软创），为交通等公共部门提供数字化转型解决方案。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.iwhalecloud.com",
+      "logo": "https://www.iwhalecloud.com/favicon.ico"
     },
     "数字广东网络建设有限公司": {
-      "type": "民企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -1915,14 +2223,15 @@
       "description": "广东省数字政府建设运营中心，打造粤省事、粤商通等政务平台，支撑交通等领域的数字化转型。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.digitalgd.com.cn"
     },
     "广州公交集团新能源发展有限责任公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "智慧停车",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "公交充电站运营",
@@ -1932,11 +2241,14 @@
       "description": "广州公交集团下属新能源企业，负责公交充电站和新能源充电设施建设运营。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gzbus.com"
     },
     "广州市悦程信息科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -1948,11 +2260,14 @@
       "description": "信息化和数据服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州盘天智能交通科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -1964,11 +2279,14 @@
       "description": "智能交通系统和产品供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州市勤思网络科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -1980,11 +2298,12 @@
       "description": "网络和信息化系统开发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州成至智能机器科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "低空智慧交通",
         "智慧交通管理"
@@ -1998,11 +2317,14 @@
       "qualifications": [
         "专精特新小巨人",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.chengzhiintelligent.com"
     },
     "广州玺相印智能科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2013,11 +2335,14 @@
       "description": "智能印章和数字化管理服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州港数据科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧港航",
         "交通大数据"
@@ -2029,11 +2354,12 @@
       "description": "广州港集团旗下，专注港口信息化和港航数据服务。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "陕西蓝德智慧交通科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -2043,11 +2369,17 @@
         "智慧交通传感器"
       ],
       "description": "交通检测和传感器设备供应商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.lande-its.com"
     },
     "四川易方智慧科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2056,11 +2388,17 @@
         "信息化平台"
       ],
       "description": "智慧系统和信息化平台服务商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "软件企业"
+      ],
+      "website": "https://www.yifangzhihui.com"
     },
     "智行智能交通科技（广州）有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -2072,11 +2410,14 @@
       "description": "智能交通和AI应用企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳互易智能科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2087,11 +2428,14 @@
       "description": "智能系统和技术服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "中国交通信息科技集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2104,11 +2448,14 @@
       "qualifications": [
         "央企",
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州讯中信息科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2119,11 +2466,14 @@
       "description": "信息化和数据服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东凯利智能交通技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -2135,11 +2485,12 @@
       "description": "智能交通技术和设备供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东青云直上航空科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "低空智慧交通"
       ],
@@ -2150,11 +2501,14 @@
       "description": "航空技术和无人机系统服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.qyaviation.com"
     },
     "京雄云控（北京）智能交通科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "自动驾驶"
@@ -2164,11 +2518,17 @@
         "车路协同"
       ],
       "description": "智能交通管控和车路协同服务商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.jingxiongyunkong.com"
     },
     "广州忘平信息科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2180,27 +2540,34 @@
       "description": "交通信息化和数据服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东省低空安全科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "低空智慧交通",
         "信创网络安全"
       ],
       "products": [
-        "低空安全管控",
-        "反无人机系统"
+        "低空适飞区与空域辅助查询工具",
+        "LARS低空航路航线划设辅助系统",
+        "低空安全管控系统",
+        "反无人机系统",
+        "空域航线合规论证服务",
+        "低空项目策划咨询服务",
+        "KML空域申请文件辅助生成"
       ],
-      "description": "低空安全管控和反无人机系统提供商。",
+      "description": "聚焦低空应用安全与项目落地的专业服务机构，服务于政府、园区及企业，提供从策划咨询、空域航线合规论证到实施落地的全流程服务。最新上线低空适飞区与空域辅助查询工具和LARS航路航线划设系统。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://gasintroduction.pages.dev/"
     },
     "上海峰华人工智能科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "人工智能",
         "智慧交通管理"
@@ -2210,11 +2577,17 @@
         "智能系统"
       ],
       "description": "人工智能算法和智能系统研发企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.fenghuaai.com"
     },
     "广东宜通联云智能信息有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2226,11 +2599,12 @@
       "description": "智能信息和物联网服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州市视臻信息科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2241,11 +2615,14 @@
       "description": "智能显示和交互设备供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州金敏云科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2256,11 +2633,14 @@
       "description": "云计算和信息化服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州枫海网络科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2271,11 +2651,14 @@
       "description": "网络技术和软件开发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州智卡物流科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2287,11 +2670,12 @@
       "description": "物流科技和智慧物流系统服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "中国移动通信集团广东有限公司": {
-      "type": "央国企",
-      "tier": "上游技术",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
@@ -2308,11 +2692,14 @@
         "A股上市(600941)",
         "港股上市(0941.HK)",
         "央企"
-      ]
+      ],
+      "website": ""
     },
     "广东省高速公路有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -2322,11 +2709,16 @@
         "养护管理"
       ],
       "description": "广东省属高速公路运营管理企业。",
-      "qualifications": []
+      "qualifications": [
+        "广东省交通集团成员企业"
+      ],
+      "website": ""
     },
     "广东省公路建设有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -2335,11 +2727,17 @@
         "高速公路运营"
       ],
       "description": "广东省属公路建设和运营管理企业。",
-      "qualifications": []
+      "qualifications": [
+        "广东省交通集团成员企业",
+        "公路工程施工总承包资质"
+      ],
+      "website": ""
     },
     "保利长大工程有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -2351,24 +2749,33 @@
       "description": "大型公路桥梁工程施工企业。",
       "qualifications": [
         "央企子公司"
-      ]
+      ],
+      "website": "https://www.polycd.com"
     },
     "威盛运输企业有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "跨境运输服务",
         "物流服务"
       ],
       "description": "跨境运输和物流服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "跨境运输经营资质",
+        "粤港跨境运输许可"
+      ],
+      "website": ""
     },
     "北京四维图新科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "智慧交通管理",
@@ -2384,24 +2791,33 @@
       "qualifications": [
         "A股上市(002405)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.navinfo.com"
     },
     "粤港汽车运输联营有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "粤港跨境客运",
         "直通巴士服务"
       ],
       "description": "粤港跨境道路客运服务商。",
-      "qualifications": []
+      "qualifications": [
+        "粤港跨境客运许可",
+        "道路运输经营许可证"
+      ],
+      "website": ""
     },
     "易智瑞信息技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2414,11 +2830,15 @@
       "description": "GIS地理信息系统和空间数据服务商，产品应用于交通规划和管理。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.geoscene.cn",
+      "logo": "https://geoscene.cn/favicon.ico"
     },
     "广东省路桥建设发展有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -2427,11 +2847,17 @@
         "高速公路运营"
       ],
       "description": "路桥建设和高速公路投资运营企业。",
-      "qualifications": []
+      "qualifications": [
+        "广东省交通集团成员企业",
+        "公路工程施工总承包一级"
+      ],
+      "website": ""
     },
     "广东省高速公路发展股份有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -2442,11 +2868,14 @@
       "description": "A股上市高速公路运营企业（粤高速A），投资运营广东省内多条高速公路。",
       "qualifications": [
         "A股上市(000429)"
-      ]
+      ],
+      "website": ""
     },
     "广东粤路勘察设计有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -2455,11 +2884,17 @@
         "交通工程咨询"
       ],
       "description": "公路和交通工程勘察设计服务商。",
-      "qualifications": []
+      "qualifications": [
+        "工程设计公路行业甲级资质",
+        "工程勘察专业类甲级"
+      ],
+      "website": "https://www.gdylsj.com"
     },
     "广州通易科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
@@ -2474,7 +2909,8 @@
       "description": "交通信息化和数据服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.tongyitech.com"
     },
     "广州计量检测技术研究院": {
       "type": "科研机构",
@@ -2491,10 +2927,11 @@
       "description": "计量检测技术机构，为交通设备和传感器提供检测校准服务。",
       "qualifications": [
         "法定计量检定机构"
-      ]
+      ],
+      "website": ""
     },
     "广东省广播电视网络股份有限公司": {
-      "type": "央国企",
+      "type": "国央企",
       "tier": "下游应用",
       "scenarios": [],
       "products": [
@@ -2503,7 +2940,12 @@
       ],
       "description": "广播电视网络运营商。",
       "low_relevance": true,
-      "qualifications": []
+      "qualifications": [
+        "广播电视节目传送业务经营许可证",
+        "省级广电网络运营商"
+      ],
+      "website": "https://www.gcable.com.cn",
+      "logo": "https://www.gcable.com.cn/favicon.ico"
     },
     "深圳市惟新科技股份有限公司": {
       "type": "民企",
@@ -2519,11 +2961,14 @@
       "description": "交通通信设备和智能终端供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.weixintech.com"
     },
     "广州市坤龙信息系统有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2534,11 +2979,14 @@
       "description": "信息系统和软件开发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳市交投科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2550,24 +2998,34 @@
       "description": "交通科技和信息服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.sztit.cn",
+      "logo": "https://sztit.cn/favicon.ico"
     },
     "广东新协力交通股份有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "出租车运营",
         "出行服务"
       ],
       "description": "出租车和出行服务运营企业。",
-      "qualifications": []
+      "qualifications": [
+        "道路运输经营许可证",
+        "出租车经营许可"
+      ],
+      "website": ""
     },
     "广州怡禄电讯科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2578,11 +3036,14 @@
       "description": "电讯和通信技术服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "北京久其软件股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2596,11 +3057,15 @@
       "qualifications": [
         "A股上市(002279)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.jiuqi.com.cn",
+      "logo": "https://jiuqi.com.cn/favicon.ico"
     },
     "中通服建设有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -2613,11 +3078,12 @@
       "description": "中国通信服务旗下，专业通信建设和信息系统集成服务商，参与智慧交通基础设施建设。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州市声讯电子科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -2628,11 +3094,14 @@
       "description": "应急广播和语音系统供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.shengxun.com"
     },
     "广州市杜格科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -2644,11 +3113,14 @@
       "description": "交通传感器和智能检测设备供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东省电信规划设计院有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -2662,11 +3134,14 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": ""
     },
     "广东赛诺科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "信创网络安全"
@@ -2678,11 +3153,12 @@
       "description": "信息化和网络安全服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "杭州安恒信息技术股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -2696,11 +3172,14 @@
       "qualifications": [
         "A股上市(688023)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.dbappsecurity.com.cn"
     },
     "广州高新兴网联科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "智慧公路"
@@ -2711,11 +3190,17 @@
         "智能网联产品"
       ],
       "description": "高新兴科技旗下，专注智能网联汽车和车路协同产品研发。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.gosuncn.com"
     },
     "广东浪潮软件有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2728,11 +3213,14 @@
       "description": "浪潮集团旗下，提供政务和交通行业软件及数据服务。",
       "qualifications": [
         "A股上市母公司(浪潮信息000977)"
-      ]
+      ],
+      "website": "https://www.inspur.com"
     },
     "华设设计集团股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧轨道交通"
@@ -2746,11 +3234,12 @@
       "qualifications": [
         "A股上市(603018)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "奇安信网神信息技术(北京)股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -2763,11 +3252,15 @@
       "qualifications": [
         "A股上市(688561)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.qianxin.com",
+      "logo": "https://qianxin.com/favicon.ico"
     },
     "广东正方圆工程咨询有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧轨道交通"
@@ -2778,11 +3271,17 @@
         "招标代理"
       ],
       "description": "交通工程咨询和造价咨询服务商。",
-      "qualifications": []
+      "qualifications": [
+        "工程咨询甲级资信",
+        "工程造价咨询资质"
+      ],
+      "website": "https://www.zhengfangyuan.com"
     },
     "珠海市交通物联网有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2792,11 +3291,15 @@
         "车联网服务"
       ],
       "description": "交通物联网和车联网服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "物联网服务资质"
+      ],
+      "website": ""
     },
     "深圳市洲明科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -2810,11 +3313,12 @@
       "qualifications": [
         "A股上市(300232)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.unilumin.com"
     },
     "北京神州绿盟科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -2828,11 +3332,12 @@
       "qualifications": [
         "A股上市(300369)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.nsfocus.com.cn"
     },
     "佛山市青松科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -2845,11 +3350,14 @@
       "description": "LED交通信号和显示设备制造商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.chinafsl.com"
     },
     "阿波罗智行科技（广州)有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -2859,11 +3367,16 @@
         "智能交通研发"
       ],
       "description": "百度Apollo在广州的研发和运营主体。",
-      "qualifications": []
+      "qualifications": [
+        "百度Apollo成员企业",
+        "自动驾驶测试牌照"
+      ],
+      "website": "https://apollo.auto",
+      "logo": "https://apollo.auto/favicon.ico"
     },
     "腾讯云计算（北京）有限责任公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能",
@@ -2876,11 +3389,20 @@
         "智慧高速解决方案"
       ],
       "description": "腾讯旗下云平台，提供云计算、大数据、AI等技术服务，智慧交通领域提供实时孪生、交通管理、智慧停车等解决方案。",
-      "qualifications": []
+      "qualifications": [
+        "腾讯集团成员企业",
+        "云计算服务资质",
+        "ISO27001信息安全认证",
+        "可信云认证"
+      ],
+      "website": "https://cloud.tencent.com",
+      "logo": "https://cloud.tencent.com/favicon.ico"
     },
     "广东龙芯中科电子科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "信创网络安全",
         "人工智能"
@@ -2893,11 +3415,15 @@
       "description": "龙芯中科广东子公司，提供国产自主处理器芯片及信创计算平台，支撑交通领域信创替代。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.loongson.cn",
+      "logo": "https://loongson.cn/favicon.ico"
     },
     "广州天长信息技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2909,11 +3435,12 @@
       "description": "信息技术服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳市宇泰科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -2924,11 +3451,17 @@
         "物联网网关"
       ],
       "description": "工业通信和物联网设备供应商，产品应用于交通基础设施通信。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "ISO9001质量管理体系"
+      ],
+      "website": "https://www.utek.com.cn"
     },
     "同盾科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -2943,11 +3476,14 @@
       "qualifications": [
         "独角兽企业",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.tongdun.cn"
     },
     "广联达数字科技（广州）有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧轨道交通"
@@ -2960,11 +3496,14 @@
       "description": "广联达旗下，提供工程数字化和BIM建造管理平台。",
       "qualifications": [
         "A股上市母公司(002410)"
-      ]
+      ],
+      "website": "https://www.glodon.com"
     },
     "北京华录高诚科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -2977,11 +3516,14 @@
       "description": "中国华录旗下，提供综合交通大数据和运行监测解决方案。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.ehualu.com"
     },
     "广东光迅工程技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -2993,18 +3535,18 @@
       "description": "通信工程和系统集成服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州市城市规划勘测设计研究院有限公司": {
-      "type": "央国企",
+      "type": "国央企",
       "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
-        "低空智慧交通",
         "交通大数据",
         "智慧公路",
         "自动驾驶",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "智慧交通规划",
@@ -3016,11 +3558,16 @@
         "智慧交通工程"
       ],
       "description": "广州市级城市规划勘测设计机构，承担城市交通规划和地理信息测绘。",
-      "qualifications": []
+      "qualifications": [
+        "城乡规划编制甲级资质",
+        "测绘甲级资质",
+        "工程设计甲级资质"
+      ],
+      "website": "https://www.gzpi.com.cn"
     },
     "北京博研智通科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -3032,11 +3579,14 @@
       "description": "交通信号优化和智能交通算法提供商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "北京超图软件股份有限公司广州分公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "交通大数据",
         "智慧交通管理",
@@ -3054,11 +3604,14 @@
         "A股上市(300036)",
         "国家高新技术企业",
         "国家重点软件企业"
-      ]
+      ],
+      "website": "https://www.supermap.com"
     },
     "广东华仝九方科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3069,11 +3622,12 @@
       "description": "信息化和技术服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳市鑫光道科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -3086,11 +3640,14 @@
       "description": "LED交通信号和警示设备制造商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.xinguangdao.com"
     },
     "佛山广明高速公路有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -3099,15 +3656,20 @@
         "收费服务"
       ],
       "description": "广明高速公路运营管理企业。",
-      "qualifications": []
+      "qualifications": [
+        "高速公路运营管理资质"
+      ],
+      "website": ""
     },
     "广州文远知行科技有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "Robotaxi自动驾驶出租车",
@@ -3118,11 +3680,13 @@
       "qualifications": [
         "独角兽企业",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.weride.ai",
+      "logo": "https://weride.ai/favicon.ico"
     },
     "广州市智能网联汽车示范区运营中心": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "自动驾驶",
         "智慧交通管理"
@@ -3135,25 +3699,33 @@
       "description": "广州市智能网联汽车测试示范区的执行机构和产业集群发展促进机构，负责自动驾驶车辆测试业务的受理、初审和监管。",
       "qualifications": [
         "政府指定运营机构"
-      ]
+      ],
+      "website": "https://www.gzaicv.com"
     },
     "广州祺宸科技有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "自动驾驶",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "自动驾驶出行服务",
         "Robotaxi运营"
       ],
       "description": "自动驾驶出行服务运营企业（如祺出行关联企业）。",
-      "qualifications": []
+      "qualifications": [
+        "网络预约出租汽车经营许可证"
+      ],
+      "website": ""
     },
     "苏州轻舟智航智能技术有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -3166,26 +3738,36 @@
       "description": "L4级自动驾驶方案提供商，主打城市微循环自动驾驶小巴。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.qcraft.ai",
+      "logo": "https://qcraft.ai/favicon.ico"
     },
     "中山市国生汽车运输有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "汽车客运服务",
         "旅游运输"
       ],
       "description": "中山市汽车客运和旅游运输服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "道路运输经营许可证",
+        "客运经营许可"
+      ],
+      "website": ""
     },
     "珠海市珠海通科技有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧停车"
       ],
       "products": [
@@ -3196,11 +3778,14 @@
       "description": "珠海公交电子支付和一卡通运营商。",
       "qualifications": [
         "珠海市属国企"
-      ]
+      ],
+      "website": ""
     },
     "广州思创科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -3212,11 +3797,14 @@
       "description": "交通信息化系统和服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.sichuangkeji.com"
     },
     "广东合盛智能技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3227,11 +3815,12 @@
       "description": "智能交通设备和系统集成企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "华章数据技术有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "交通大数据",
         "信创网络安全"
@@ -3242,11 +3831,18 @@
         "云计算基础设施"
       ],
       "description": "数据中心和数据基础设施服务商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "IDC牌照",
+        "ISO27001信息安全认证"
+      ],
+      "website": ""
     },
     "南京莱斯信息技术股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "低空智慧交通"
@@ -3260,11 +3856,14 @@
       "qualifications": [
         "A股上市(688631)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.les.cn"
     },
     "广东航鑫工程勘察设计有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧港航"
       ],
@@ -3274,11 +3873,15 @@
         "海洋工程咨询"
       ],
       "description": "港口航道和水运工程勘察设计服务商。",
-      "qualifications": []
+      "qualifications": [
+        "工程设计水运行业资质",
+        "工程勘察专业类资质"
+      ],
+      "website": ""
     },
     "广州市城智电子科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3289,11 +3892,14 @@
       "description": "电子和智能终端设备供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.chengzhidz.com"
     },
     "信创神州（广东）科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "信创网络安全"
       ],
@@ -3304,11 +3910,14 @@
       "description": "信创产品和国产化替代方案提供商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "行洲科技（广州）有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3319,11 +3928,14 @@
       "description": "信息化和技术服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "越秀（中国）交通基建投资有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -3334,11 +3946,14 @@
       "description": "越秀集团旗下交通基建投资平台，投资运营多条高速公路。",
       "qualifications": [
         "港股上市(01052)"
-      ]
+      ],
+      "website": "https://www.yuexiutransportinfrastructure.com"
     },
     "中交广连高速公路投资发展有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -3347,11 +3962,17 @@
         "运营管理"
       ],
       "description": "广连高速公路投资建设和运营管理企业。",
-      "qualifications": []
+      "qualifications": [
+        "中交集团成员企业",
+        "高速公路特许经营资质"
+      ],
+      "website": ""
     },
     "浙江海康智联科技有限公司广东分公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "智慧公路"
@@ -3362,14 +3983,19 @@
         "边缘计算单元"
       ],
       "description": "海康威视旗下，专注车路协同和智能网联产品，为车联网先导区提供设备。",
-      "qualifications": []
+      "qualifications": [
+        "海康威视成员企业",
+        "国家高新技术企业"
+      ],
+      "website": "https://www.hikauto.com"
     },
     "广州吉欧电子科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
-        "自动驾驶",
-        "低空智慧交通"
+        "自动驾驶"
       ],
       "products": [
         "高精度定位模组",
@@ -3379,11 +4005,14 @@
       "description": "高精度定位和惯性导航产品提供商，为自动驾驶和无人机提供定位导航模组。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.geo-electronics.com"
     },
     "江苏数智元科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -3393,11 +4022,17 @@
         "数据服务"
       ],
       "description": "数智化和数据服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.shuzhiyuan.com"
     },
     "电子科技大学中山学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -3410,14 +4045,15 @@
       "description": "电子科技大学与中山市共建高校，在电子信息领域具有科研优势。",
       "qualifications": [
         "独立学院"
-      ]
+      ],
+      "website": "https://www.zsc.edu.cn"
     },
     "广州数据交易所有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "交通大数据",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "数据交易平台",
@@ -3425,11 +4061,17 @@
         "数据资产化服务"
       ],
       "description": "广东省数据交易所，推动交通数据资产化和数据产品交易。",
-      "qualifications": []
+      "qualifications": [
+        "广东省数据交易所牌照",
+        "数据交易服务资质"
+      ],
+      "website": ""
     },
     "广东宽广科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3440,7 +4082,8 @@
       "description": "信息技术和系统集成服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "蕉岭县公路事务中心": {
       "type": "民企",
@@ -3453,11 +4096,17 @@
       ],
       "description": "地方公路事务管理机构。",
       "low_relevance": true,
-      "qualifications": []
+      "qualifications": [
+        "事业单位",
+        "公路养护管理资质"
+      ],
+      "website": "https://www.jiaoling.gov.cn"
     },
     "深圳成谷科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧公路",
         "自动驾驶"
@@ -3470,11 +4119,12 @@
       "description": "智慧高速和车路协同设备供应商，专注ETC天线和V2X路侧单元研发。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "华闳咨询集团有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [],
       "products": [
         "管理咨询",
@@ -3482,24 +4132,36 @@
       ],
       "description": "管理咨询服务企业。",
       "low_relevance": true,
-      "qualifications": []
+      "qualifications": [
+        "工程咨询资质",
+        "企业管理咨询资质"
+      ],
+      "website": ""
     },
     "汉海信息技术（上海）有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "出行服务平台",
         "共享出行"
       ],
       "description": "美团旗下出行服务企业（美团打车等）。",
-      "qualifications": []
+      "qualifications": [
+        "网络预约出租汽车经营许可证",
+        "美团旗下企业"
+      ],
+      "website": "https://www.meituan.com"
     },
     "广州市亿博信息技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3510,11 +4172,14 @@
       "description": "信息技术和软件开发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "福州威普软件技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3523,11 +4188,17 @@
         "信息系统"
       ],
       "description": "软件技术和信息系统企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "软件企业"
+      ],
+      "website": "https://www.weipusoft.com"
     },
     "广州天勤数字科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -3539,11 +4210,14 @@
       "description": "数字化和数据服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东鼎尧科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -3556,11 +4230,14 @@
       "description": "科技产品和技术服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "领信数科信息技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -3572,11 +4249,14 @@
       "description": "信息技术和数字化解决方案提供商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "珠海华园信息技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3587,11 +4267,12 @@
       "description": "信息技术和软件开发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州信息投资有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "下游应用",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3602,11 +4283,14 @@
       "description": "信息化投资和基础设施服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gzinvest.com"
     },
     "北京卓视智通科技有限责任公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -3619,11 +4303,14 @@
       "description": "交通视频AI分析和事件检测算法提供商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州汇豪计算机科技开发有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -3635,11 +4322,14 @@
       "description": "高速公路收费系统和交通软件开发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "合肥冰柏科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3648,14 +4338,18 @@
         "信息化系统"
       ],
       "description": "科技和信息化服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.bingbaitech.com"
     },
     "深圳市图敏智能视频股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS",
+        "智慧出行服务",
         "人工智能"
       ],
       "products": [
@@ -3666,11 +4360,14 @@
       "description": "车载视频监控和智能视频分析产品供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.tumintech.com"
     },
     "浙江丰行慧运科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -3680,11 +4377,17 @@
         "数据服务"
       ],
       "description": "智慧交通和数据服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业"
+      ],
+      "website": "https://www.fenghanghuiyun.com"
     },
     "北京逐风科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3693,11 +4396,17 @@
         "软件开发"
       ],
       "description": "科技和软件开发服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "软件企业"
+      ],
+      "website": "https://www.zhufengtech.com"
     },
     "广州皓图科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3708,15 +4417,18 @@
       "description": "科技和信息化服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州市迈得科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
         "智慧交通管理",
-        "低空智慧交通",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "飞服零售平台",
@@ -3727,11 +4439,14 @@
       "description": "科技和软件开发服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.maide-tech.com"
     },
     "吉华安全技术（广州）股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "信创网络安全"
@@ -3743,11 +4458,14 @@
       "description": "安全技术和管理服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.geohwa.com"
     },
     "广州数字方舟信息技术股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧港航",
@@ -3764,11 +4482,14 @@
       "description": "数字化和信息服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广科通立（广东）数据服务有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -3778,14 +4499,19 @@
         "数据管理平台"
       ],
       "description": "广科通立旗下数据服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "数据服务资质"
+      ],
+      "website": "https://www.gktldata.com"
     },
     "上海华测导航技术股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
-        "自动驾驶",
-        "低空智慧交通"
+        "自动驾驶"
       ],
       "products": [
         "高精度定位终端",
@@ -3796,11 +4522,15 @@
       "qualifications": [
         "A股上市(300627)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.huace.cn",
+      "logo": "https://huace.cn/favicon.ico"
     },
     "广州芯网电子科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧公路",
         "自动驾驶"
@@ -3813,11 +4543,12 @@
       "description": "ETC及智能交通电子芯片和传感器研发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "北京信安世纪科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -3830,11 +4561,14 @@
       "qualifications": [
         "A股上市(688201)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.infosec.com.cn"
     },
     "招商华软信息有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -3846,25 +4580,32 @@
       "description": "招商局集团旗下，专注高速公路收费和交通信息化软件。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.cmsoft.cn",
+      "logo": "https://cmsoft.cn/favicon.ico"
     },
     "祺迹汽车科技（广州）有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "自动驾驶",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "自动驾驶出行服务",
         "Robotaxi运营"
       ],
       "description": "自动驾驶出行服务运营企业（如祺出行关联企业）。",
-      "qualifications": []
+      "qualifications": [
+        "网络预约出租汽车经营许可证"
+      ],
+      "website": "https://www.qijiauto.com"
     },
     "杭州美创科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全",
         "交通大数据"
@@ -3875,11 +4616,17 @@
         "数据库运维"
       ],
       "description": "数据安全和数据治理产品提供商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "数据安全能力成熟度模型认证",
+        "专精特新企业"
+      ],
+      "website": "https://www.mchz.com.cn",
+      "logo": "https://mchz.com.cn/favicon.ico"
     },
     "山东新潮信息技术有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -3888,11 +4635,15 @@
         "安全检测"
       ],
       "description": "网络安全检测和服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "信息安全等级保护测评机构"
+      ],
+      "website": ""
     },
     "瑞数信息技术（上海）有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "信创网络安全"
       ],
@@ -3902,11 +4653,15 @@
         "API安全"
       ],
       "description": "动态安全和Bot防护产品提供商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "信息安全服务资质"
+      ],
+      "website": ""
     },
     "锐捷网络股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "信创网络安全"
@@ -3920,11 +4675,13 @@
       "qualifications": [
         "A股上市(301165)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.ruijie.com.cn",
+      "logo": "https://ruijie.com.cn/favicon.ico"
     },
     "杭州聚声科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3933,11 +4690,18 @@
         "声学技术"
       ],
       "description": "音频和声学技术产品供应商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "科技型中小企业",
+        "杭州市雏鹰计划企业",
+        "ISO9000质量管理体系认证",
+        "知识产权管理体系认证"
+      ],
+      "website": ""
     },
     "苏州科达科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -3951,10 +4715,11 @@
       "qualifications": [
         "A股上市(603660)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "中电科金仓（北京）科技股份有限公司": {
-      "type": "民企",
+      "type": "国央企",
       "tier": "上游技术",
       "scenarios": [
         "交通大数据",
@@ -3967,11 +4732,14 @@
       "description": "中国电科旗下，国产数据库和数据管理平台提供商（原人大金仓）。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.kingbase.com.cn"
     },
     "广州智广电子科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3982,11 +4750,14 @@
       "description": "电子信息和智能设备企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zhiguangtech.com"
     },
     "广州盛富和科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -3997,11 +4768,14 @@
       "description": "科技和信息化服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "中诚金桥工程有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -4010,11 +4784,15 @@
         "交通工程建设"
       ],
       "description": "公路桥梁等交通工程施工企业。",
-      "qualifications": []
+      "qualifications": [
+        "公路工程施工总承包资质",
+        "桥梁工程专业承包资质"
+      ],
+      "website": ""
     },
     "广东大仓机器人科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "人工智能",
         "具身智能"
@@ -4026,11 +4804,14 @@
       "description": "智能机器人和自动化设备研发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳市星辰智途科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -4042,11 +4823,14 @@
       "description": "自动驾驶感知算法和智能驾驶方案研发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东南方电信规划咨询设计院有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "信创网络安全"
@@ -4059,11 +4843,14 @@
       "description": "通信和信息化规划设计咨询机构，为交通领域提供通信网络规划和信息化咨询服务。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东省建筑工程机械施工有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧轨道交通"
@@ -4074,11 +4861,15 @@
         "机械施工"
       ],
       "description": "交通基础设施和市政工程机械化施工企业。",
-      "qualifications": []
+      "qualifications": [
+        "建筑工程施工总承包一级",
+        "市政公用工程施工总承包一级"
+      ],
+      "website": ""
     },
     "广东享飞通用航空有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "低空智慧交通"
       ],
@@ -4089,11 +4880,14 @@
       "description": "通用航空服务和飞行培训企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.xiangfei-ga.com"
     },
     "广东敖智科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -4105,11 +4899,12 @@
       "description": "AI和智能系统服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "天羿智服（广东）科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "低空智慧交通"
       ],
@@ -4120,11 +4915,14 @@
       "description": "无人机服务和低空经济企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.tianyizhifu.com"
     },
     "添翼智控（黑龙江）科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通"
       ],
@@ -4135,11 +4933,14 @@
       "description": "无人机飞控和低空智能管控技术提供商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.tianyi-zhikong.com"
     },
     "广州市田龙信息技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4150,11 +4951,14 @@
       "description": "信息技术和软件开发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "河源市粤保安全技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4163,11 +4967,14 @@
         "安防系统"
       ],
       "description": "安全技术和安防系统服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "安全技术防范系统资质"
+      ],
+      "website": ""
     },
     "成都臻识科技发展有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "智慧停车",
@@ -4181,11 +4988,12 @@
       "description": "AI视觉感知和智能停车识别设备提供商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东肇庆航空职业学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "低空智慧交通"
       ],
@@ -4196,11 +5004,14 @@
       "description": "航空类职业院校，培养低空经济和航空技术人才。",
       "qualifications": [
         "民办高职院校"
-      ]
+      ],
+      "website": ""
     },
     "广东修炼科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4211,11 +5022,12 @@
       "description": "科技和信息化服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "北京视讯伟业科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4224,11 +5036,17 @@
         "视频会议系统"
       ],
       "description": "视频通信和视频会议设备供应商。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "音视频集成资质"
+      ],
+      "website": ""
     },
     "北京辰安科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "信创网络安全"
@@ -4241,11 +5059,14 @@
       "qualifications": [
         "A股上市(300523)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gsafety.com"
     },
     "上海天玑科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "信创网络安全"
@@ -4258,11 +5079,15 @@
       "description": "IT基础设施服务和运维管理提供商。",
       "qualifications": [
         "A股上市(300245)"
-      ]
+      ],
+      "website": "https://www.dnt.com.cn",
+      "logo": "https://dnt.com.cn/favicon.ico"
     },
     "领航智通（广州）信息技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -4274,11 +5099,14 @@
       "description": "交通信息化和通信解决方案提供商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "东莞市智城科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4289,11 +5117,12 @@
       "description": "智慧城市和交通信息化服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州韶创电子科技有限责任公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4304,11 +5133,12 @@
       "description": "电子和智能终端设备供应商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.shaochuangdz.com"
     },
     "广东智飞航空技术服务有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "低空智慧交通"
       ],
@@ -4319,11 +5149,14 @@
       "description": "航空技术和无人机运营服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zhifei-aviation.com"
     },
     "深圳市趣电智行科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧停车"
       ],
@@ -4334,11 +5167,14 @@
       "description": "智能充电桩和充电运营平台服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.qudianzhixing.com"
     },
     "公诚管理咨询有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -4352,11 +5188,14 @@
       "description": "国内大型工程咨询管理企业，为交通建设项目提供全过程咨询和监理服务。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gcmc.com.cn"
     },
     "中公华通（北京）科技发展有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4367,11 +5206,14 @@
       "description": "交通科技和信息化服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zghttech.com"
     },
     "中瑆科技（广东）有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4382,11 +5224,14 @@
       "description": "科技和信息化服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zhongxingtech.com"
     },
     "广东道路信息发展有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "交通大数据"
@@ -4398,11 +5243,14 @@
       "description": "道路信息和交通数据服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gdroadinfo.com"
     },
     "中捷通信有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4413,11 +5261,14 @@
       "description": "通信设备贸易和供应链服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zjcc.com"
     },
     "广州安能科技技术服务有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4428,11 +5279,14 @@
       "description": "技术服务和系统维护企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.an-neng.com"
     },
     "深圳高芯思通科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -4445,11 +5299,14 @@
       "description": "专注车载通信和智能网联芯片研发，产品应用于V2X车路协同和智能驾驶领域。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州数盈科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -4461,14 +5318,18 @@
       "description": "数据服务和数字化解决方案提供商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.shuyingtech.com"
     },
     "广州运通链达金服科技有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "区块链支付平台",
@@ -4477,11 +5338,14 @@
       "description": "广电运通旗下，提供区块链和数字金融科技服务。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.grgbanking.com"
     },
     "滴普科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -4495,11 +5359,13 @@
       "description": "数据智能服务商，为企业提供数据平台和AI应用解决方案。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.deepexi.com",
+      "logo": "https://deepexi.com/favicon.ico"
     },
     "广东省城市技师学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4510,11 +5376,12 @@
       "description": "培养交通和城市管理领域技能人才。",
       "qualifications": [
         "省级技师学院"
-      ]
+      ],
+      "website": ""
     },
     "杭州海康威视数字技术股份有限公司广州分公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能",
@@ -4530,11 +5397,12 @@
       "qualifications": [
         "A股上市(002415)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.hikvision.com"
     },
     "中国电信股份有限公司广东分公司": {
-      "type": "央国企",
-      "tier": "上游技术",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
@@ -4550,11 +5418,15 @@
       "qualifications": [
         "A股上市(601728)",
         "央企"
-      ]
+      ],
+      "website": ""
     },
     "广州市埃特斯通讯设备有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -4566,11 +5438,12 @@
       "description": "ETC和高速公路收费通信设备制造商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "新华三技术有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "信创网络安全",
@@ -4585,13 +5458,15 @@
       "description": "新紫光集团旗下核心企业，数字化解决方案领导者，为交通行业提供网络、计算、安全等ICT基础设施。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.h3c.com",
+      "logo": "https://www.h3c.com/favicon.ico"
     },
     "广东南粤通客运联网中心有限公司": {
-      "type": "民企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": "中游集成",
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧交通管理"
       ],
       "products": [
@@ -4602,11 +5477,14 @@
       "description": "广东省客运联网售票和出行信息服务平台运营商。",
       "qualifications": [
         "广东省客运联网平台"
-      ]
+      ],
+      "website": ""
     },
     "润建股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -4621,13 +5499,17 @@
       "qualifications": [
         "A股上市(002929)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.runjian.com",
+      "logo": "https://www.runjian.com/favicon.ico"
     },
     "澳门新福利公共汽车有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "澳门公交运营",
@@ -4636,13 +5518,14 @@
       "description": "澳门主要公交运营商之一，服务澳门及跨境公共交通。",
       "qualifications": [
         "澳门主要公交运营商"
-      ]
+      ],
+      "website": ""
     },
     "佛山市广佛通电子收费营运有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧停车"
       ],
       "products": [
@@ -4653,11 +5536,14 @@
       "description": "佛山公交电子支付和交通一卡通运营商，服务广佛同城出行。",
       "qualifications": [
         "佛山市属国企"
-      ]
+      ],
+      "website": ""
     },
     "捷迅技术(广州)有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4668,11 +5554,14 @@
       "description": "信息技术和通信服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.jiexuntech.com"
     },
     "广东南方福瑞德律师事务所": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [],
       "products": [
         "法律服务",
@@ -4680,11 +5569,16 @@
       ],
       "description": "律师事务所，为交通行业提供法律服务支持。",
       "low_relevance": true,
-      "qualifications": []
+      "qualifications": [
+        "律师事务所执业许可证"
+      ],
+      "website": "https://www.nflawyer.cn"
     },
     "华诺星空技术股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通",
         "智慧交通管理"
@@ -4698,14 +5592,15 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新小巨人"
-      ]
+      ],
+      "website": ""
     },
     "广州航运交易所": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [
         "智慧港航",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "航运交易服务",
@@ -4713,11 +5608,17 @@
         "航运信息"
       ],
       "description": "广州航运交易和航运信息服务平台。",
-      "qualifications": []
+      "qualifications": [
+        "航运交易服务资质",
+        "交通运输部备案"
+      ],
+      "website": ""
     },
     "奥德梅斯（广州）工业技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4728,11 +5629,14 @@
       "description": "工业技术和自动化系统服务商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "北京理工大学珠海学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -4745,16 +5649,18 @@
       "description": "北京理工大学在珠海设立的独立学院，培养工程技术和智能交通人才。",
       "qualifications": [
         "独立学院"
-      ]
+      ],
+      "website": ""
     },
     "深圳北斗应用技术研究院有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
-        "低空智慧交通",
         "交通大数据",
-        "湾区MaaS",
-        "智慧港航",
+        "智慧出行服务",
         "自动驾驶"
       ],
       "products": [
@@ -4766,11 +5672,14 @@
       "description": "专注北斗卫星导航应用技术研发和产业化。",
       "qualifications": [
         "中科院孵化企业"
-      ]
+      ],
+      "website": ""
     },
     "广东瀚宇技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路",
@@ -4784,11 +5693,12 @@
       "description": "瀚信科技关联企业，从事智慧交通系统集成和高速公路机电工程。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.gdhanyu.com"
     },
     "江门市列车衡器有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路"
       ],
@@ -4797,11 +5707,15 @@
         "衡器产品"
       ],
       "description": "车辆称重衡器设备制造商。",
-      "qualifications": []
+      "qualifications": [
+        "计量器具型式批准证书",
+        "ISO9001质量管理体系"
+      ],
+      "website": ""
     },
     "深圳市锐明技术股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -4816,11 +5730,12 @@
         "A股上市(002970)",
         "国家高新技术企业",
         "专精特新小巨人"
-      ]
+      ],
+      "website": "https://www.streamax.com"
     },
     "广州元亿商显技术有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4832,11 +5747,12 @@
       "description": "商用显示设备供应商，产品应用于交通指挥中心大屏。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.yuanyids.com"
     },
     "广州航海学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧港航"
       ],
@@ -4847,13 +5763,16 @@
       "description": "华南地区航运和海事类高等院校，培养港航专业人才。",
       "qualifications": [
         "省属本科院校"
-      ]
+      ],
+      "website": ""
     },
     "广东港珠澳大桥穿梭巴士有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧公路"
       ],
       "products": [
@@ -4863,11 +5782,15 @@
       "description": "港珠澳大桥穿梭巴士（金巴）运营商，提供三地跨境公共交通服务。",
       "qualifications": [
         "粤港澳三地政府指定运营商"
-      ]
+      ],
+      "website": "",
+      "logo": "https://www.hzmbus.com/favicon.ico"
     },
     "广东鱼易通技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4878,11 +5801,14 @@
       "description": "技术研发和信息化服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.yuyitong.com"
     },
     "广州融赋数智技术服务有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -4894,11 +5820,14 @@
       "description": "数据技术和数智化服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.rongfushuzhi.com"
     },
     "华力创科学（深圳）有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -4910,11 +5839,14 @@
       "description": "科学仪器和智能传感器研发企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东工业大学": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "人工智能"
@@ -4927,13 +5859,16 @@
       "description": "广东省属重点大学，设有交通工程和智能交通相关学科，培养工程技术人才。",
       "qualifications": [
         "省属重点大学"
-      ]
+      ],
+      "website": "https://www.gdut.edu.cn"
     },
     "广州长运集团有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧公路"
       ],
       "products": [
@@ -4942,13 +5877,20 @@
         "物流运输"
       ],
       "description": "广州市属道路运输企业，提供长途客运和物流运输服务。",
-      "qualifications": []
+      "qualifications": [
+        "道路运输经营许可证",
+        "客运一级资质"
+      ],
+      "website": "https://www.gzcy.com.cn",
+      "logo": "https://gzcy.com.cn/favicon.ico"
     },
     "广州巴士集团有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧交通管理"
       ],
       "products": [
@@ -4959,11 +5901,14 @@
       "description": "广州市属大型公交运营企业集团，运营广州市区公交线路。",
       "qualifications": [
         "广州市属国企"
-      ]
+      ],
+      "website": ""
     },
     "北京市盈科（广州）律师事务所": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [],
       "products": [
         "法律服务",
@@ -4971,11 +5916,16 @@
       ],
       "description": "律师事务所，为交通行业提供法律服务支持。",
       "low_relevance": true,
-      "qualifications": []
+      "qualifications": [
+        "律师事务所执业许可证"
+      ],
+      "website": "https://www.yingkelawyer.com"
     },
     "广州市地狗灵机环境监测有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4986,11 +5936,14 @@
       "description": "环境和交通环境监测服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.digoulingji.com"
     },
     "广州锐龙供应链有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -4999,11 +5952,15 @@
         "物流运输"
       ],
       "description": "供应链和物流运输服务企业。",
-      "qualifications": []
+      "qualifications": [
+        "道路运输经营许可证",
+        "供应链管理服务资质"
+      ],
+      "website": ""
     },
     "深圳防灾减灾技术研究院": {
       "type": "科研机构",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -5016,11 +5973,14 @@
       "description": "专注防灾减灾和交通安全技术研究。",
       "qualifications": [
         "市级科研机构"
-      ]
+      ],
+      "website": "https://www.szsti.org"
     },
     "广州威震技术服务有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -5031,11 +5991,12 @@
       "description": "技术和信息化服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.weizhentech.com"
     },
     "广东保伦电子股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -5047,26 +6008,29 @@
       "description": "音视频和智能控制系统集成商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.itc-pa.com.cn"
     },
     "中山市人杰职业培训学校有限公司": {
       "type": "民企",
-      "tier": "上游技术",
-      "scenarios": [
-        "智慧交通管理"
+      "tier": [
+        "上游技术"
       ],
+      "scenarios": [],
       "products": [
         "职业培训",
         "技能教育"
       ],
       "description": "职业培训学校。",
-      "qualifications": []
+      "qualifications": [
+        "民办职业培训学校办学许可证"
+      ],
+      "website": ""
     },
     "中科星图数字地球合肥有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
-        "低空智慧交通",
         "交通大数据"
       ],
       "products": [
@@ -5077,14 +6041,15 @@
       "description": "中科星图旗下，提供数字地球和遥感数据服务。",
       "qualifications": [
         "A股上市母公司(688568)"
-      ]
+      ],
+      "website": "https://www.geovisearth.com"
     },
     "广州通达汽车电气股份有限公司": {
       "type": "民企",
       "tier": "上游技术",
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "车载智能终端",
@@ -5096,14 +6061,15 @@
         "A股上市(603390)",
         "国家高新技术企业",
         "省级企业技术中心"
-      ]
+      ],
+      "website": "https://www.tongda.cc"
     },
     "中交城市投资控股有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "城市综合开发",
@@ -5111,11 +6077,15 @@
         "交通枢纽开发"
       ],
       "description": "中交集团旗下城市综合开发运营平台，投资建设交通枢纽和TOD项目。",
-      "qualifications": []
+      "qualifications": [
+        "中交集团成员企业",
+        "房地产开发一级资质"
+      ],
+      "website": ""
     },
     "广东中兴新支点技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "信创网络安全",
         "智慧交通管理"
@@ -5128,11 +6098,12 @@
       "description": "中兴通讯旗下，专注国产操作系统和嵌入式系统研发，为交通信创提供基础软件支撑。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东百视特照明电器有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路"
       ],
@@ -5143,24 +6114,28 @@
       "description": "道路照明和智慧路灯设备制造商。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.bestlighting.com"
     },
     "广州市红棉花职业技能培训学校有限公司": {
       "type": "民企",
-      "tier": "上游技术",
-      "scenarios": [
-        "智慧交通管理"
+      "tier": [
+        "上游技术"
       ],
+      "scenarios": [],
       "products": [
         "职业技能培训",
         "人才培养"
       ],
       "description": "职业技能培训学校。",
-      "qualifications": []
+      "qualifications": [
+        "民办职业培训学校办学许可证"
+      ],
+      "website": "https://www.hongmianhua.com"
     },
     "浙江大华技术股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能",
@@ -5176,11 +6151,15 @@
       "qualifications": [
         "A股上市(002236)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.dahuatech.com",
+      "logo": "https://www.dahuatech.com/favicon.ico"
     },
     "广东省智创未来国际高新技术有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理"
       ],
@@ -5191,11 +6170,12 @@
       "description": "高新技术和创新服务企业。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广州博证文化集团有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "中游集成",
       "scenarios": [],
       "products": [
         "文化服务",
@@ -5203,11 +6183,16 @@
       ],
       "description": "文化服务和企业咨询公司。",
       "low_relevance": true,
-      "qualifications": []
+      "qualifications": [
+        "文化服务企业资质"
+      ],
+      "website": "https://www.bzculture.com"
     },
     "广州顺丰速运有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -5218,15 +6203,20 @@
         "无人机配送"
       ],
       "description": "顺丰速运广州公司，提供快递物流和智慧供应链服务，探索无人机配送等新物流模式。",
-      "qualifications": []
+      "qualifications": [
+        "快递业务经营许可证",
+        "道路运输经营许可证"
+      ],
+      "website": "https://www.sf-express.com",
+      "logo": "https://www.sf-express.com/favicon.ico"
     },
     "广州市中海达测绘仪器有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
-        "自动驾驶",
-        "智慧港航",
-        "低空智慧交通"
+        "自动驾驶"
       ],
       "products": [
         "高精度测绘仪器",
@@ -5234,11 +6224,18 @@
         "三维激光扫描仪"
       ],
       "description": "中海达旗下，专注高精度测绘仪器和定位终端，产品应用于交通基础设施测量和自动驾驶。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "中海达集团成员企业",
+        "测绘资质"
+      ],
+      "website": "https://www.hi-target.com.cn"
     },
     "广东正衡税务师事务所有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [],
       "products": [
         "税务服务",
@@ -5246,11 +6243,16 @@
       ],
       "description": "税务师事务所，为交通企业提供财税服务。",
       "low_relevance": true,
-      "qualifications": []
+      "qualifications": [
+        "税务师事务所执业证书"
+      ],
+      "website": ""
     },
     "深圳市速腾聚创科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -5266,11 +6268,14 @@
         "港股上市(2498.HK)",
         "国家高新技术企业",
         "独角兽企业"
-      ]
+      ],
+      "website": "https://www.robosense.cn"
     },
     "深圳市大疆创新科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通",
         "自动驾驶",
@@ -5286,11 +6291,15 @@
       "qualifications": [
         "独角兽企业",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.dji.com",
+      "logo": "https://dji.com/favicon.ico"
     },
     "比亚迪股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能",
@@ -5307,11 +6316,14 @@
         "A股上市(002594)",
         "港股上市(1211.HK)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.byd.com"
     },
     "广州汽车集团股份有限公司": {
-      "type": "央国企",
-      "tier": "上游技术",
+      "type": "国央企",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能",
@@ -5327,11 +6339,13 @@
       "qualifications": [
         "A股上市(601238)",
         "港股上市(2238.HK)"
-      ]
+      ],
+      "website": "https://www.gac.com.cn",
+      "logo": "https://www.gac.com.cn/favicon.ico"
     },
     "比亚迪通信信号有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧轨道交通",
         "智慧交通管理"
@@ -5343,11 +6357,18 @@
         "综合承载网络"
       ],
       "description": "比亚迪全资子公司，掌握轨道交通通信信号核心技术，提供全自动运行平台服务，拥有广东省轨道交通全自动运行系统工程技术研究中心。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "比亚迪集团成员企业",
+        "广东省轨道交通全自动运行系统工程技术研究中心"
+      ],
+      "website": "https://www.byd.com"
     },
     "深圳市德赛西威汽车电子股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -5362,11 +6383,15 @@
       "qualifications": [
         "A股上市(002920)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.desaysv.com",
+      "logo": "https://www.desaysv.com/favicon.ico"
     },
     "深圳市航盛电子股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -5381,11 +6406,14 @@
       "qualifications": [
         "国家高新技术企业",
         "省级企业技术中心"
-      ]
+      ],
+      "website": "https://www.hangsheng.com.cn"
     },
     "广州导远电子科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶"
       ],
@@ -5398,11 +6426,15 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": "https://www.asensing.com",
+      "logo": "https://asensing.com/favicon.ico"
     },
     "深圳市镭神智能系统有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "智慧交通管理"
@@ -5416,11 +6448,14 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新小巨人"
-      ]
+      ],
+      "website": "https://www.leishen-lidar.com"
     },
     "广州立功科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "智慧交通管理"
@@ -5433,11 +6468,12 @@
       "description": "汽车电子和嵌入式系统方案提供商，为智能网联汽车提供通信和计算模组。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zlg.cn"
     },
     "中兴通讯股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "智慧交通管理",
@@ -5454,11 +6490,15 @@
         "A股上市(000063)",
         "港股上市(00763)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.zte.com.cn",
+      "logo": "https://zte.com.cn/favicon.ico"
     },
     "广东盛路通信科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧公路",
         "自动驾驶"
@@ -5473,11 +6513,14 @@
       "qualifications": [
         "A股上市(002446)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.shenglu.com"
     },
     "深圳市广和通无线股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -5492,11 +6535,15 @@
       "qualifications": [
         "A股上市(300638)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.fibocom.com",
+      "logo": "https://fibocom.com/favicon.ico"
     },
     "深圳市有方科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -5511,11 +6558,12 @@
         "A股上市(688159)",
         "国家高新技术企业",
         "专精特新小巨人"
-      ]
+      ],
+      "website": "https://www.neoway.com"
     },
     "日海智能科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -5530,15 +6578,18 @@
       "qualifications": [
         "A股上市(002313)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.sunseaaiot.com"
     },
     "深圳市城市交通规划设计研究中心股份有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "城市交通规划设计",
@@ -5550,14 +6601,16 @@
       "qualifications": [
         "A股上市(301091)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.sutpc.com",
+      "logo": "https://sutpc.com/favicon.ico"
     },
     "深圳市都市交通规划设计研究院有限公司": {
       "type": "民企",
       "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "交通规划设计",
@@ -5565,11 +6618,18 @@
         "交通影响评价"
       ],
       "description": "深圳交通规划咨询机构，入选2024中国智能交通三十强。",
-      "qualifications": []
+      "qualifications": [
+        "城乡规划编制甲级资质",
+        "工程咨询甲级资信",
+        "入选2024中国智能交通三十强"
+      ],
+      "website": ""
     },
     "广东新粤交通投资有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -5582,11 +6642,14 @@
       "description": "广东省属交通投资企业，入选2024中国智能交通三十强，专注高速公路机电和智慧交通系统。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳榕亨实业集团有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路"
@@ -5597,11 +6660,21 @@
         "交通工程"
       ],
       "description": "深圳专业从事智能交通、智慧城市建设的国家级高新技术企业，入选2024中国智能交通三十强，专注交通信号控制和智能交通设备。",
-      "qualifications": []
+      "qualifications": [
+        "国家高新技术企业",
+        "市政公用工程施工总承包壹级",
+        "建筑工程施工总承包壹级",
+        "公路工程施工总承包贰级",
+        "深圳交通控制与仿真工程中心",
+        "入选2024中国智能交通三十强",
+        "广东省工程技术研究中心",
+        "深圳市企业技术中心"
+      ],
+      "website": ""
     },
     "深圳市凌度汽车电子有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "自动驾驶",
         "智慧交通管理"
@@ -5614,7 +6687,9 @@
       "description": "深圳车载电子企业，专注智能行车记录仪和ADAS产品，入选2024中国智能交通三十强。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.blackview.hk",
+      "logo": "https://blackview.hk/favicon.ico"
     },
     "深圳聚瑞云控科技有限公司": {
       "type": "民企",
@@ -5631,11 +6706,14 @@
       "description": "深圳智能交通科技企业，以北斗技术为基础深耕物联网领域，拥有119项软件著作权，入选2024中国智能交通三十强。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.juruiyun.com"
     },
     "广东云网通信有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧停车",
         "智慧交通管理"
@@ -5650,11 +6728,14 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": "https://www.yunwangtx.com"
     },
     "深圳市捷顺科技实业股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧停车",
         "智慧交通管理"
@@ -5670,14 +6751,19 @@
       "qualifications": [
         "A股上市(002609)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.jieshun.cn",
+      "logo": "https://jieshun.cn/favicon.ico"
     },
     "深圳市前海亿车科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
         "智慧停车",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "蜜蜂停车平台",
@@ -5687,11 +6773,14 @@
       "description": "深圳智慧停车和充电运营平台服务商，旗下蜜蜂停车平台覆盖多个城市。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东艾科智泊科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧停车"
       ],
@@ -5703,11 +6792,14 @@
       "description": "佛山智慧停车解决方案提供商(2016年成立)，专注停车管理设备及系统，覆盖住宅、园区等场景。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.akeparking.com"
     },
     "中移系统集成有限公司广东分公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -5719,11 +6811,18 @@
         "数字孪生交通"
       ],
       "description": "中国移动旗下系统集成公司，在智慧交通领域拿单能力强劲，参与多地智慧交通项目建设。",
-      "qualifications": []
+      "qualifications": [
+        "中国移动成员企业",
+        "信息系统集成资质"
+      ],
+      "website": "https://www.cmccsi.com",
+      "logo": "https://cmccsi.com/favicon.ico"
     },
     "中国联合网络通信有限公司深圳市分公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路",
@@ -5737,15 +6836,18 @@
       "description": "中国联通深圳分公司，入选2024中国智能交通三十强。",
       "qualifications": [
         "央企"
-      ]
+      ],
+      "website": "https://www.chinaunicom.com.cn"
     },
     "深圳市腾讯计算机系统有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
-        "湾区MaaS",
+        "智慧出行服务",
         "人工智能"
       ],
       "products": [
@@ -5759,11 +6861,15 @@
       "qualifications": [
         "港股上市(0700.HK)",
         "世界500强"
-      ]
+      ],
+      "website": "https://www.tencent.com",
+      "logo": "https://tencent.com/favicon.ico"
     },
     "广东汇天航空航天科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通",
         "自动驾驶"
@@ -5776,11 +6882,15 @@
       "description": "小鹏汽车旗下飞行汽车公司，广州黄埔量产工厂建设中，计划2026年全球首个量产交付飞行汽车。",
       "qualifications": [
         "独角兽企业"
-      ]
+      ],
+      "website": "https://www.xpeng.com"
     },
     "峰飞航空科技（深圳）有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "下游应用"
+      ],
       "scenarios": [
         "低空智慧交通"
       ],
@@ -5792,11 +6902,15 @@
       "description": "国内eVTOL头部企业，产品覆盖载人和物流两大场景，V2000CG获全球首张吨级以上eVTOL适航证。",
       "qualifications": [
         "独角兽企业"
-      ]
+      ],
+      "website": "https://www.autoflight.com",
+      "logo": "https://autoflight.com/favicon.ico"
     },
     "广州极飞科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通",
         "人工智能"
@@ -5812,11 +6926,15 @@
         "独角兽企业",
         "国家高新技术企业",
         "专精特新小巨人"
-      ]
+      ],
+      "website": "https://www.xa.com",
+      "logo": "https://xa.com/favicon.ico"
     },
     "深圳市科比特航空科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通"
       ],
@@ -5829,11 +6947,14 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳市道通智能航空技术股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通"
       ],
@@ -5845,11 +6966,14 @@
       "description": "深圳无人机企业，全球消费级无人机市场重要参与者。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.autelrobotics.com"
     },
     "深圳联合飞机科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通"
       ],
@@ -5862,14 +6986,17 @@
       "qualifications": [
         "专精特新小巨人",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.uatair.com"
     },
     "广州港集团有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧港航",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "南沙四期全自动化码头",
@@ -5879,14 +7006,17 @@
       "description": "广州港运营主体，南沙四期全自动化码头拥有54项自主专利，全球领先的智慧港口标杆。",
       "qualifications": [
         "广州市属大型国企"
-      ]
+      ],
+      "website": "https://www.gzport.com"
     },
     "招商局港口集团股份有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧港航",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "妈湾智慧港",
@@ -5896,11 +7026,13 @@
       "description": "A股上市(001872)，深圳妈湾智慧港为国内首个5G智慧港口，全球港口运营商。",
       "qualifications": [
         "A股上市(001872)"
-      ]
+      ],
+      "website": "https://www.cmport.com.hk",
+      "logo": "https://www.cmport.com.hk/favicon.ico"
     },
     "深圳中集智能科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧港航",
         "智慧交通管理"
@@ -5913,11 +7045,14 @@
       "description": "中集集团旗下(2008年成立)，装备物联网领导者，专注智能集装箱、物联网终端和物流追踪系统。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.cimc.com"
     },
     "中车广东轨道交通车辆有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧轨道交通"
       ],
@@ -5927,11 +7062,17 @@
         "轨道交通装备"
       ],
       "description": "中车青岛四方与广东省铁投合资，广东轨道交通车辆制造核心企业，2010年成立。",
-      "qualifications": []
+      "qualifications": [
+        "中国中车成员企业",
+        "轨道交通车辆制造许可"
+      ],
+      "website": "https://www.crrcgc.cc/gd"
     },
     "广州中车轨道交通装备有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧轨道交通"
       ],
@@ -5941,11 +7082,17 @@
         "轨道交通装备"
       ],
       "description": "广州地铁集团与中国中车株机合资，广东省重点建设项目，承担地铁车辆制造和维保。",
-      "qualifications": []
+      "qualifications": [
+        "中国中车成员企业",
+        "广州地铁集团合资企业"
+      ],
+      "website": "https://www.crrcgc.cc/gz"
     },
     "深圳中车轨道交通装备有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧轨道交通"
       ],
@@ -5955,14 +7102,20 @@
         "智能运维"
       ],
       "description": "深圳轨道交通装备制造和维保企业。",
-      "qualifications": []
+      "qualifications": [
+        "中国中车成员企业",
+        "轨道交通装备制造许可"
+      ],
+      "website": ""
     },
     "广州地铁集团有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧轨道交通",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "地铁运营",
@@ -5973,14 +7126,17 @@
       "description": "广州地铁运营主体，运营里程全国前列，推动智慧地铁和TOD综合开发。",
       "qualifications": [
         "广州市属大型国企"
-      ]
+      ],
+      "website": "https://www.gzmtr.com"
     },
     "深圳市地铁集团有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧轨道交通",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "地铁运营",
@@ -5990,25 +7146,34 @@
       "description": "深圳地铁运营主体，建设深圳中车轨道交通装备科技园5G工厂等智慧制造项目。",
       "qualifications": [
         "深圳市属大型国企"
-      ]
+      ],
+      "website": "https://www.szmc.net"
     },
     "广东广佛轨道交通有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧轨道交通",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "广佛地铁运营",
         "跨城轨道交通"
       ],
       "description": "国内首条跨城地铁——广佛地铁运营方。",
-      "qualifications": []
+      "qualifications": [
+        "轨道交通运营许可",
+        "国内首条跨城地铁运营方"
+      ],
+      "website": ""
     },
     "广东方纬科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -6021,14 +7186,16 @@
       "description": "广州智慧交通大数据企业（曾用名广州市方纬交通科技有限公司），依托中山大学科研实力，2016年完成7696万并购，为交通管理部门提供数据分析和决策支持。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.fangweitech.com"
     },
     "广东省科学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "人工智能",
-        "低空智慧交通",
         "智慧交通管理"
       ],
       "products": [
@@ -6039,11 +7206,14 @@
       "description": "广东省属综合性科研机构，孵化中科云图等智慧交通企业。",
       "qualifications": [
         "省级科研机构"
-      ]
+      ],
+      "website": "https://www.gdas.gd.cn"
     },
     "深圳清华大学研究院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -6056,11 +7226,14 @@
       "description": "清华大学在深圳设立的研究院，在智能驾驶和AI领域开展前沿研究。",
       "qualifications": [
         "新型研发机构"
-      ]
+      ],
+      "website": ""
     },
     "北京航空航天大学深圳研究院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通"
       ],
@@ -6072,11 +7245,12 @@
       "description": "北航在深圳设立的研究院，聚焦低空经济和无人机技术研究。",
       "qualifications": [
         "新型研发机构"
-      ]
+      ],
+      "website": ""
     },
     "丰巢网络技术有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": "上游技术",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -6089,15 +7263,19 @@
       "qualifications": [
         "国家高新技术企业",
         "专精特新企业"
-      ]
+      ],
+      "website": "https://www.fcbox.com"
     },
     "深圳美团科技有限公司": {
       "type": "民企",
-      "tier": "下游应用",
+      "tier": [
+        "下游应用",
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "低空智慧交通",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "美团无人配送车",
@@ -6108,11 +7286,15 @@
       "description": "美团深圳总部(注册资本75亿)，在无人配送、无人机外卖配送领域持续投入，旗下美团无人配送车已获多地自动驾驶测试牌照。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://about.meituan.com",
+      "logo": "https://about.meituan.com/favicon.ico"
     },
     "深圳市凯立德科技股份有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "智慧交通管理"
@@ -6126,11 +7308,15 @@
       "qualifications": [
         "新三板上市",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.careland.com.cn",
+      "logo": "https://careland.com.cn/favicon.ico"
     },
     "深圳元戎启行科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -6144,11 +7330,15 @@
       "qualifications": [
         "独角兽企业",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.deeproute.ai",
+      "logo": "https://deeproute.ai/favicon.ico"
     },
     "广州小马智行科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -6162,11 +7352,15 @@
       "qualifications": [
         "独角兽企业",
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.pony.ai",
+      "logo": "https://pony.ai/favicon.ico"
     },
     "广州宸境科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -6179,11 +7373,12 @@
       "description": "广州空间智能和AR技术企业，产品包括城市级镜像世界MirrorVerse，专注5G+AI+AR空间智能赛道。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳市安车检测股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": "上游技术",
       "scenarios": [
         "智慧交通管理"
       ],
@@ -6196,14 +7391,18 @@
       "qualifications": [
         "A股上市(300572)",
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "深圳市金证科技股份有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
         "智慧交通管理",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "智慧交通支付系统",
@@ -6213,11 +7412,15 @@
       "description": "A股上市(600446)，金融科技企业，为公共交通提供电子支付解决方案。",
       "qualifications": [
         "A股上市(600446)"
-      ]
+      ],
+      "website": "https://www.szkingdom.com",
+      "logo": "https://szkingdom.com/favicon.ico"
     },
     "广州交投机电工程有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -6230,14 +7433,18 @@
       "description": "广州交通投资集团旗下，专注高速公路机电工程和系统集成。",
       "qualifications": [
         "广州市属国企"
-      ]
+      ],
+      "website": "https://www.gzjtjd.com"
     },
     "广东省交通集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路",
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧交通管理"
       ],
       "products": [
@@ -6251,14 +7458,17 @@
       "qualifications": [
         "中国企业500强",
         "广东省属大型国企"
-      ]
+      ],
+      "website": ""
     },
     "深圳高速公路集团股份有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "高速公路投资运营",
@@ -6269,11 +7479,14 @@
       "qualifications": [
         "A股上市(600548)",
         "港股上市(00548)"
-      ]
+      ],
+      "website": "https://www.sz-expressway.com"
     },
     "广东广深高速公路有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6282,11 +7495,16 @@
         "高速公路收费服务"
       ],
       "description": "广深高速公路运营管理企业，管理中国最繁忙的高速公路之一。",
-      "qualifications": []
+      "qualifications": [
+        "高速公路运营管理资质"
+      ],
+      "website": ""
     },
     "广东渝湛高速公路有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6295,11 +7513,16 @@
         "高速公路管理"
       ],
       "description": "渝湛高速公路广东段运营管理企业。",
-      "qualifications": []
+      "qualifications": [
+        "高速公路运营管理资质"
+      ],
+      "website": ""
     },
     "广东阳茂高速公路有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6307,11 +7530,16 @@
         "阳茂高速运营管理"
       ],
       "description": "阳茂高速公路运营管理企业。",
-      "qualifications": []
+      "qualifications": [
+        "高速公路运营管理资质"
+      ],
+      "website": ""
     },
     "广东开阳高速公路有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6319,11 +7547,16 @@
         "开阳高速运营管理"
       ],
       "description": "开阳高速公路运营管理企业。",
-      "qualifications": []
+      "qualifications": [
+        "高速公路运营管理资质"
+      ],
+      "website": ""
     },
     "广东河惠高速公路有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6331,11 +7564,16 @@
         "河惠高速运营管理"
       ],
       "description": "河惠高速公路运营管理企业。",
-      "qualifications": []
+      "qualifications": [
+        "高速公路运营管理资质"
+      ],
+      "website": ""
     },
     "广东冠粤路桥有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6347,11 +7585,14 @@
       "description": "广东省交通集团下属大型路桥施工企业，参与多条高速公路建设。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": ""
     },
     "广东晶通公路工程建设集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6360,13 +7601,20 @@
         "桥梁隧道施工"
       ],
       "description": "广东省交通集团下属公路工程建设企业。",
-      "qualifications": []
+      "qualifications": [
+        "公路工程施工总承包一级",
+        "广东省交通集团成员企业"
+      ],
+      "website": "https://www.gdjtgs.com",
+      "logo": "https://gdjtgs.com/favicon.ico"
     },
     "广东省汽车运输集团有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "公路客运",
@@ -6374,37 +7622,53 @@
         "旅游运输"
       ],
       "description": "广东省交通集团下属，省内主要公路客运企业。",
-      "qualifications": []
+      "qualifications": [
+        "道路运输经营许可证",
+        "广东省交通集团成员企业"
+      ],
+      "website": "https://www.gdcy.com.cn"
     },
     "岐关车路有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "粤澳跨境运输",
         "客货运服务"
       ],
       "description": "广东省交通集团下属，专注粤澳跨境客货运输服务。",
-      "qualifications": []
+      "qualifications": [
+        "粤澳跨境运输许可",
+        "广东省交通集团成员企业"
+      ],
+      "website": ""
     },
     "广东省拱北汽车运输有限责任公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "珠澳跨境客运",
         "道路运输"
       ],
       "description": "广东省交通集团下属，珠海拱北口岸跨境客运企业。",
-      "qualifications": []
+      "qualifications": [
+        "粤澳跨境运输许可",
+        "广东省交通集团成员企业"
+      ],
+      "website": ""
     },
     "广东利通置业投资有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -6414,11 +7678,14 @@
         "智慧交通园区"
       ],
       "description": "广东省交通集团下属，交通产业投资和智慧交通园区开发。",
-      "qualifications": []
+      "qualifications": [
+        "广东省交通集团成员企业"
+      ],
+      "website": ""
     },
     "东莞市交通投资控股集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧公路",
         "智慧轨道交通",
@@ -6431,11 +7698,18 @@
         "交通基建"
       ],
       "description": "东莞市属国有独资重点企业，AAA信用评级，员工超1.5万人，下辖轨道公司、港务集团及上市企业东莞控股(000828)。",
-      "qualifications": []
+      "qualifications": [
+        "东莞市属国有独资重点企业",
+        "AAA信用评级",
+        "下辖上市公司东莞控股(000828)"
+      ],
+      "website": "https://www.dgjt.com.cn"
     },
     "东莞发展控股股份有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6446,11 +7720,14 @@
       "description": "A股上市(000828)，东莞市交通投资控股集团旗下上市平台，运营莞深高速等核心资产。",
       "qualifications": [
         "A股上市(000828)"
-      ]
+      ],
+      "website": "https://www.dgholding.com"
     },
     "东莞市路桥投资建设有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6460,15 +7737,18 @@
         "道路养护"
       ],
       "description": "东莞市交通投资集团全资子公司，1996年成立，负责东莞高速公路投资、建设、收费、养护。",
-      "qualifications": []
+      "qualifications": [
+        "东莞市交通投资集团全资子公司"
+      ],
+      "website": ""
     },
     "珠海交通控股集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧公路",
         "智慧港航",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "交通基础设施投资",
@@ -6476,11 +7756,14 @@
         "港口码头建设"
       ],
       "description": "珠海市属大型交通投资集团，统筹珠海市交通基础设施投资建设和运营。",
-      "qualifications": []
+      "qualifications": [
+        "珠海市属大型国有交通投资集团"
+      ],
+      "website": ""
     },
     "佛山市交通投资集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -6491,11 +7774,15 @@
         "智慧交通"
       ],
       "description": "佛山市属交通投资集团，负责佛山交通基础设施投资建设。",
-      "qualifications": []
+      "qualifications": [
+        "佛山市属国有交通投资集团",
+        "AAA信用评级"
+      ],
+      "website": ""
     },
     "惠州市交通投资集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧公路",
         "智慧交通管理"
@@ -6506,25 +7793,31 @@
         "智慧交通"
       ],
       "description": "惠州市属交通投资集团。",
-      "qualifications": []
+      "qualifications": [
+        "惠州市属国有交通投资集团"
+      ],
+      "website": ""
     },
     "中山市交通发展集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧公路",
-        "湾区MaaS"
+        "智慧出行服务"
       ],
       "products": [
         "交通基础设施投资",
         "高速公路建设"
       ],
       "description": "中山市属交通投资建设集团。",
-      "qualifications": []
+      "qualifications": [
+        "中山市属国有交通投资集团"
+      ],
+      "website": ""
     },
     "江门市交通建设投资集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧公路"
       ],
@@ -6533,11 +7826,14 @@
         "公路建设"
       ],
       "description": "江门市属交通建设投资集团。",
-      "qualifications": []
+      "qualifications": [
+        "江门市属国有交通投资集团"
+      ],
+      "website": ""
     },
     "肇庆市交通集团有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": "下游应用",
       "scenarios": [
         "智慧公路"
       ],
@@ -6546,11 +7842,16 @@
         "公路运营"
       ],
       "description": "肇庆市属交通投资集团。",
-      "qualifications": []
+      "qualifications": [
+        "肇庆市属国有交通投资集团"
+      ],
+      "website": ""
     },
     "广东省航运规划设计院有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧港航"
       ],
@@ -6560,11 +7861,17 @@
         "海洋工程"
       ],
       "description": "广东省交通集团下属，港口航道及水运工程规划设计机构。",
-      "qualifications": []
+      "qualifications": [
+        "工程设计水运行业甲级资质",
+        "工程勘察专业类甲级"
+      ],
+      "website": ""
     },
     "广东省公路勘察规划设计院有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路"
       ],
@@ -6573,11 +7880,18 @@
         "交通规划咨询"
       ],
       "description": "广东省交通集团下属公路勘察设计机构。",
-      "qualifications": []
+      "qualifications": [
+        "工程设计公路行业甲级资质",
+        "工程勘察综合甲级资质"
+      ],
+      "website": "https://www.ghdi.com.cn"
     },
     "深圳地平线机器人科技有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "自动驾驶",
         "人工智能"
@@ -6591,11 +7905,15 @@
       "qualifications": [
         "港股上市(9660.HK)",
         "独角兽企业"
-      ]
+      ],
+      "website": "https://www.horizon.cc",
+      "logo": "https://horizon.cc/favicon.ico"
     },
     "亿航智能设备有限公司": {
       "type": "民企",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "低空智慧交通",
         "自动驾驶"
@@ -6610,11 +7928,15 @@
         "纳斯达克上市(EH)",
         "国家高新技术企业",
         "独角兽企业"
-      ]
+      ],
+      "website": "https://www.ehang.com",
+      "logo": "https://ehang.com/favicon.ico"
     },
     "深圳市智能交通技术有限公司": {
-      "type": "央国企",
-      "tier": "中游集成",
+      "type": "国央企",
+      "tier": [
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据"
@@ -6627,11 +7949,15 @@
       "description": "深圳交通中心旗下，专注智慧交通管控和交通大数据分析。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.sz-its.com",
+      "logo": "https://sz-its.com/favicon.ico"
     },
     "广东利通物业发展有限公司": {
-      "type": "央国企",
-      "tier": "下游应用",
+      "type": "国央企",
+      "tier": [
+        "下游应用"
+      ],
       "scenarios": [],
       "products": [
         "交通物业开发",
@@ -6639,11 +7965,18 @@
       ],
       "description": "广东省交通集团下属物业管理和商业运营企业，曾用名广东高达物业发展有限公司。",
       "low_relevance": true,
-      "qualifications": []
+      "qualifications": [
+        "物业管理资质",
+        "广东省交通集团成员企业"
+      ],
+      "website": ""
     },
     "广州学塾加软件科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成",
+        "上游技术"
+      ],
       "scenarios": [
         "交通大数据",
         "智慧公路",
@@ -6659,13 +7992,17 @@
       "description": "专注于交通仿真软件研发，提供智慧交通数字孪生解决方案。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.xueshujia.com"
     },
     "广州蔚景科技有限公司": {
       "type": "民企",
-      "tier": "中游集成",
+      "tier": [
+        "中游集成",
+        "下游应用"
+      ],
       "scenarios": [
-        "湾区MaaS",
+        "智慧出行服务",
         "智慧停车"
       ],
       "products": [
@@ -6674,11 +8011,16 @@
       "description": "专注于新能源汽车充电运营服务，提供充电桩管理平台及出行服务。",
       "qualifications": [
         "国家高新技术企业"
-      ]
+      ],
+      "website": "https://www.vejing.com",
+      "logo": "https://vejing.com/favicon.ico"
     },
     "中山大学智能交通研究中心": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -6696,11 +8038,15 @@
         "985工程",
         "双一流",
         "广东省重点实验室"
-      ]
+      ],
+      "website": "https://www.sysu.edu.cn"
     },
     "暨南大学物联网与物流工程研究院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "交通大数据",
         "人工智能",
@@ -6715,11 +8061,15 @@
       "qualifications": [
         "211工程",
         "双一流"
-      ]
+      ],
+      "website": "https://www.jnu.edu.cn"
     },
     "深圳大学土木与交通工程学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -6735,11 +8085,15 @@
       "qualifications": [
         "广东省高水平大学",
         "国家级科研平台"
-      ]
+      ],
+      "website": "https://ce.szu.edu.cn"
     },
     "广东工业大学土木与交通工程学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "智慧公路",
@@ -6755,11 +8109,15 @@
       "qualifications": [
         "广东省高水平大学",
         "国家高新技术企业（产学研）"
-      ]
+      ],
+      "website": ""
     },
     "广州大学土木工程学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧公路",
         "交通大数据",
@@ -6773,11 +8131,15 @@
       "description": "广州大学土木工程学院开设交通工程专业，广东省内交通工程专业录取分数线最高的院校，在道路工程、交通规划方面具有优势。",
       "qualifications": [
         "广东省高水平大学"
-      ]
+      ],
+      "website": ""
     },
     "华南农业大学工程学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -6792,16 +8154,16 @@
       "qualifications": [
         "双一流",
         "广东省高水平大学"
-      ]
+      ],
+      "website": "https://gcxy.scau.edu.cn"
     },
     "深圳技术大学城市交通与物流学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧轨道交通",
         "自动驾驶",
-        "智慧交通管理",
-        "低空智慧交通"
+        "智慧交通管理"
       ],
       "products": [
         "广东省高校轨道交通智慧运维工程技术开发中心",
@@ -6812,15 +8174,19 @@
       "qualifications": [
         "广东省高水平大学",
         "广东省工程技术研究中心"
-      ]
+      ],
+      "website": "https://www.sztu.edu.cn",
+      "logo": "https://sztu.edu.cn/favicon.ico"
     },
     "广东海洋大学海运学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧港航",
-        "交通大数据",
-        "低空智慧交通"
+        "交通大数据"
       ],
       "products": [
         "智慧港口仿真系统",
@@ -6830,11 +8196,15 @@
       "description": "广东海洋大学海运学院开设交通运输专业，在港口与航运管理、海洋交通运输领域具有独特优势。",
       "qualifications": [
         "广东省高水平大学"
-      ]
+      ],
+      "website": "https://www.gdou.edu.cn"
     },
     "广州航海学院航运与交通学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术",
+        "中游集成"
+      ],
       "scenarios": [
         "智慧港航",
         "交通大数据",
@@ -6848,11 +8218,12 @@
       "description": "广州航海学院交通运输专业广东省排名第一，海事与港口运输特色鲜明，在航运管理、港口物流方面具有领先优势。",
       "qualifications": [
         "广东省特色高校"
-      ]
+      ],
+      "website": ""
     },
     "东莞理工学院生态环境与建筑工程学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "智慧公路",
@@ -6866,11 +8237,13 @@
       "description": "东莞理工学院在交通工程与城市基础设施领域开展教学研究，服务于粤港澳大湾区城市交通发展。",
       "qualifications": [
         "广东省高水平理工科大学"
-      ]
+      ],
+      "website": "https://www.dgut.edu.cn",
+      "logo": "https://dgut.edu.cn/favicon.ico"
     },
     "五邑大学土木建筑学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧公路",
         "交通大数据",
@@ -6884,11 +8257,12 @@
       "description": "五邑大学土木建筑学院开设交通工程专业，在道路与桥梁工程、交通规划领域具有教学科研实力。",
       "qualifications": [
         "广东省高水平理工科大学"
-      ]
+      ],
+      "website": "https://www.wyu.edu.cn"
     },
     "佛山大学交通与土木建筑学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "智慧公路",
@@ -6902,11 +8276,12 @@
       "description": "佛山大学开设交通工程专业，在广东省内交通工程专业认可度最高的院校之一，服务粤港澳大湾区交通建设。",
       "qualifications": [
         "广东省高水平理工科大学"
-      ]
+      ],
+      "website": ""
     },
     "广州城市理工学院汽车与交通工程学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "自动驾驶",
@@ -6920,11 +8295,12 @@
       "description": "广州城市理工学院汽车与交通工程学院开设交通工程专业，聚焦智能网联汽车与智慧交通方向。",
       "qualifications": [
         "广东省应用型高校"
-      ]
+      ],
+      "website": "https://www.gcu.edu.cn"
     },
     "广东理工学院智能制造学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能",
@@ -6938,11 +8314,12 @@
       "description": "广东理工学院开设交通运输专业，结合智能制造与交通工程，培养应用型交通人才。",
       "qualifications": [
         "广东省应用型高校"
-      ]
+      ],
+      "website": "https://www.gdlgxy.edu.cn"
     },
     "广州理工学院智能制造与电气工程学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "人工智能",
@@ -6956,11 +8333,12 @@
       "description": "广州理工学院开设交通运输专业，在智能车辆与电气化交通方向开展教学研究。",
       "qualifications": [
         "广东省应用型高校"
-      ]
+      ],
+      "website": "https://www.gzist.edu.cn"
     },
     "广东交通职业技术学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "智慧公路",
@@ -6976,11 +8354,12 @@
       "qualifications": [
         "国家骨干高职院校",
         "广东省示范性高职院校"
-      ]
+      ],
+      "website": "https://www.gdcp.edu.cn"
     },
     "深圳信息职业技术学院交通与环境学院": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": "中游集成",
       "scenarios": [
         "智慧交通管理",
         "交通大数据",
@@ -6995,16 +8374,18 @@
       "qualifications": [
         "国家示范性高职院校",
         "双高计划"
-      ]
+      ],
+      "website": "https://www.sziit.edu.cn"
     },
     "香港科技大学（广州）智能交通学域": {
       "type": "科研机构",
-      "tier": "上游技术",
+      "tier": [
+        "上游技术"
+      ],
       "scenarios": [
         "人工智能",
         "交通大数据",
         "自动驾驶",
-        "低空智慧交通",
         "智慧交通管理"
       ],
       "products": [
@@ -7017,7 +8398,786 @@
       "qualifications": [
         "世界一流大学",
         "大湾区重点高校"
-      ]
+      ],
+      "website": "https://www.hkust-gz.edu.cn"
+    },
+    "高德软件有限公司": {
+      "type": "民企",
+      "tier": [
+        "上游技术",
+        "中游集成",
+        "下游应用"
+      ],
+      "scenarios": [
+        "智慧出行服务",
+        "智慧交通管理",
+        "交通大数据",
+        "自动驾驶",
+        "人工智能"
+      ],
+      "products": [
+        "高德地图",
+        "高精度地图",
+        "导航服务",
+        "位置服务",
+        "智慧交通解决方案",
+        "车路协同",
+        "自动驾驶地图"
+      ],
+      "description": "阿里巴巴集团旗下数字地图、导航和位置服务提供商，拥有导航电子地图甲级测绘资质，服务覆盖出行、物流、智慧交通等领域。",
+      "qualifications": [
+        "国家高新技术企业",
+        "甲级测绘资质"
+      ],
+      "website": "https://www.amap.com"
+    },
+    "广东高域科技有限公司": {
+      "type": "国央企",
+      "tier": "上游技术",
+      "scenarios": [
+        "低空智慧交通",
+        "自动驾驶"
+      ],
+      "products": [
+        "GOVY AirCab飞行汽车",
+        "GOVY AirJet复合翼飞行汽车",
+        "GOVY AirCar飞行汽车",
+        "低空出行解决方案"
+      ],
+      "description": "广汽集团旗下低空出行科技品牌，同时布局多旋翼+复合翼产品矩阵，已发布3款自研飞行汽车，AirCab为首款量产级产品，已进入适航审定阶段，计划2026年下半年取证量产。",
+      "qualifications": [
+        "广汽集团成员企业",
+        "264项专利"
+      ],
+      "website": "https://www.govy.com.cn"
+    },
+    "深圳市优必选科技股份有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "Walker系列人形机器人",
+        "人形机器人全栈技术",
+        "伺服驱动器",
+        "机器人操作系统ROSA",
+        "教育/服务/工业机器人"
+      ],
+      "description": "港股上市(9880.HK)，全球少数具备人形机器人全栈式技术能力的公司，人形机器人有效专利数量全球第一，产品覆盖教育、服务、工业等多场景。",
+      "qualifications": [
+        "港股上市(9880.HK)",
+        "国家高新技术企业",
+        "人形机器人专利全球第一"
+      ],
+      "website": "https://www.ubtrobot.com"
+    },
+    "深圳逐际动力科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "全尺寸人形机器人",
+        "四足机器人",
+        "通用机器人操作系统",
+        "足式机器人运动控制"
+      ],
+      "description": "深圳人形机器人领军企业，专注通用机器人研发，掌握足式机器人核心运动控制技术，产品面向工业巡检、物流配送等场景。",
+      "qualifications": [
+        "国家高新技术企业",
+        "深圳机器人八大金刚"
+      ],
+      "website": "https://www.limxdynamics.com"
+    },
+    "深圳市众擎机器人科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "人形机器人整机",
+        "机器人关节模组",
+        "灵巧手"
+      ],
+      "description": "深圳人形机器人明星企业，深圳机器人八大金刚之一，专注人形机器人整机研发和核心零部件，产品应用于工业和家庭场景。",
+      "qualifications": [
+        "国家高新技术企业",
+        "深圳机器人八大金刚"
+      ],
+      "website": "https://www.zhongqing-robot.com"
+    },
+    "帕西尼感知科技（深圳）有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "ITPU多维触觉传感器",
+        "灵巧手",
+        "触觉感知模组",
+        "人形机器人触觉方案"
+      ],
+      "description": "深圳具身智能触觉传感器领军企业，深圳机器人八大金刚之一，自研ITPU多维度触觉传感技术，赋予灵巧手精准多维感知能力。",
+      "qualifications": [
+        "国家高新技术企业",
+        "深圳机器人八大金刚"
+      ],
+      "website": "https://www.paxini.com"
+    },
+    "数字华夏（深圳）科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "巨号具身智能交互平台",
+        "人形交互机器人",
+        "AGI机器人系统"
+      ],
+      "description": "深圳人形交互机器人企业，深圳机器人八大金刚之一，基于巨号具身智能交互平台构建有温度的人形机器人，聚焦AGI机器人规模商用。",
+      "qualifications": [
+        "国家高新技术企业",
+        "深圳机器人八大金刚"
+      ],
+      "website": "https://www.shuzihuaxia.com"
+    },
+    "智平方（深圳）科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "具身智能通用机器人",
+        "机器人操作系统",
+        "智能决策系统"
+      ],
+      "description": "深圳具身智能机器人企业，深圳机器人八大金刚之一，专注通用具身智能机器人研发，在智能决策和环境理解方面具有技术优势。",
+      "qualifications": [
+        "国家高新技术企业",
+        "深圳机器人八大金刚"
+      ],
+      "website": "https://www.zhipingfang.com"
+    },
+    "跨维（深圳）智能数字科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "具身智能操作系统",
+        "3D视觉感知",
+        "机器人智能决策平台"
+      ],
+      "description": "深圳具身智能企业，深圳机器人八大金刚之一，专注具身智能3D视觉感知和操作系统研发，为人形机器人提供感知和决策能力。",
+      "qualifications": [
+        "国家高新技术企业",
+        "深圳机器人八大金刚"
+      ],
+      "website": "https://www.kuaweizn.com"
+    },
+    "深圳市普渡科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "商用配送机器人",
+        "清洁机器人",
+        "低速无人驾驶方案",
+        "机器人调度系统"
+      ],
+      "description": "深圳商用服务机器人龙头企业，深圳机器人八大金刚之一，累计出货超5.3万台，业务遍及全球60+国家和地区，专利超1800件。",
+      "qualifications": [
+        "国家高新技术企业",
+        "国家级专精特新小巨人",
+        "深圳机器人八大金刚"
+      ],
+      "website": "https://www.pudutech.com"
+    },
+    "深圳市越疆科技股份有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "协作机器人",
+        "工业机械臂",
+        "焊接机器人",
+        "码垛机器人",
+        "智能制造方案"
+      ],
+      "description": "港股上市(2432.HK)，全球协作机器人出货量第二，从协作机器人向具身智能延伸，产品覆盖工业制造、教育科研等领域。",
+      "qualifications": [
+        "港股上市(2432.HK)",
+        "国家高新技术企业",
+        "全球协作机器人出货量第二"
+      ],
+      "website": "https://www.dobot.cn"
+    },
+    "云鲸智能创新（深圳）有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "扫拖机器人",
+        "家庭服务机器人",
+        "智能清洁方案"
+      ],
+      "description": "深圳家庭服务机器人领军企业，从扫地机器人向具身智能家庭服务机器人方向拓展。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.narwal.com"
+    },
+    "星尘智能（深圳）有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "AI机器人操作系统",
+        "具身智能平台",
+        "机器人训练数据"
+      ],
+      "description": "深圳具身智能企业，专注AI机器人操作系统和具身智能平台研发，为机器人提供通用智能能力。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.stardust-ai.com"
+    },
+    "深圳自变量机器人有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "机器人基础模型",
+        "具身智能训练平台",
+        "通用操作技能学习系统"
+      ],
+      "description": "深圳具身智能企业，专注机器人基础模型和通用操作技能学习，为机器人提供可泛化的操作能力。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.zibianliang.com"
+    },
+    "深圳市肯綮科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "外骨骼机器人",
+        "辅助行走设备",
+        "运动增强系统"
+      ],
+      "description": "深圳外骨骼机器人企业，专注运动增强和辅助行走外骨骼研发，产品应用于医疗康复和工业助力场景。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.kenqingtech.com"
+    },
+    "戴盟（深圳）机器人科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "人形机器人灵巧手",
+        "触觉传感器",
+        "精细操作方案"
+      ],
+      "description": "深圳人形机器人灵巧手研发企业，专注机器人精细操作和触觉感知技术。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.daimeng-robot.com"
+    },
+    "深圳市杉川机器人有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "协作机器人",
+        "工业机械臂",
+        "机器人关节模组"
+      ],
+      "description": "深圳机器人核心零部件和整机研发企业，提供协作机器人和关节模组产品。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.shanchuan-robot.com"
+    },
+    "深圳市边界智控科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "低空智慧交通"
+      ],
+      "products": [
+        "飞行控制系统",
+        "航电系统",
+        "eVTOL飞控",
+        "无人机飞控"
+      ],
+      "description": "深圳飞行控制系统和航电系统提供商，为eVTOL和无人机提供核心飞控产品，位于南山区。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.bianjiezk.com"
+    },
+    "深圳大漠大智控技术有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "低空智慧交通"
+      ],
+      "products": [
+        "无人机编队表演系统",
+        "飞行控制系统",
+        "集群控制技术"
+      ],
+      "description": "深圳无人机集群飞行控制系统提供商，专注无人机编队表演和集群控制技术，位于龙华区。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.damoda.com"
+    },
+    "广东泰一高新技术发展有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "低空智慧交通"
+      ],
+      "products": [
+        "工业无人机",
+        "低空遥感系统",
+        "无人机行业应用"
+      ],
+      "description": "惠州低空经济代表企业，专注工业无人机和低空遥感应用，惠州入选城市低空经济全国50强。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.taiyi-tech.com"
+    },
+    "珠海隆华直升机科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "低空智慧交通"
+      ],
+      "products": [
+        "无人直升机",
+        "飞行控制系统",
+        "航空发动机"
+      ],
+      "description": "珠海无人直升机研发制造企业，专注中大型无人直升机和飞行控制系统，位于珠海金湾区。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.longhua-uav.com"
+    },
+    "广州小鹏汇天飞行汽车制造有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "低空智慧交通",
+        "自动驾驶"
+      ],
+      "products": [
+        "陆地航母分体式飞行汽车",
+        "A868全倾转旋翼eVTOL",
+        "旅航者X2飞行汽车"
+      ],
+      "description": "小鹏汽车生态企业，亚洲规模最大的飞行汽车公司，累计投入超100亿元，约1400名研发人员，全球订单突破7000单，广州黄埔量产工厂已投产。",
+      "qualifications": [
+        "国家高新技术企业",
+        "小鹏汽车生态企业",
+        "全球eVTOL订单量领先"
+      ],
+      "website": "https://www.xpengaeroht.com"
+    },
+    "广州亿航智能技术有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "低空智慧交通",
+        "自动驾驶"
+      ],
+      "products": [
+        "EH216-S载人eVTOL",
+        "自动驾驶飞行器",
+        "低空交通管理平台",
+        "VT-30长航程eVTOL"
+      ],
+      "description": "全球首家上市的eVTOL企业(纳斯达克:EH)，全球首款获三证齐全的载人无人驾驶飞行器，安全飞行验证超6.4万架次，2024年实现全球eVTOL行业首次盈利。",
+      "qualifications": [
+        "纳斯达克上市(EH)",
+        "全球首款三证齐全eVTOL",
+        "国家高新技术企业"
+      ],
+      "website": "https://www.ehang.com"
+    },
+    "深圳文远知行科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "自动驾驶",
+        "人工智能",
+        "智慧出行服务"
+      ],
+      "products": [
+        "WeRide One自动驾驶平台",
+        "Robotaxi",
+        "Robobus",
+        "无人环卫车",
+        "自动驾驶货运"
+      ],
+      "description": "全球领先L4级自动驾驶企业，纳斯达克上市(WRD)，总部广州，在全球超30个城市开展自动驾驶运营和测试，产品覆盖出行、货运、环卫等场景。",
+      "qualifications": [
+        "纳斯达克上市(WRD)",
+        "国家高新技术企业",
+        "全球L4自动驾驶领军企业"
+      ],
+      "website": "https://www.weride.ai"
+    },
+    "广州安途智能科技有限公司": {
+      "type": "民企",
+      "tier": "上游技术",
+      "scenarios": [
+        "自动驾驶",
+        "人工智能"
+      ],
+      "products": [
+        "L4自动驾驶方案",
+        "Robotaxi",
+        "自动驾驶货运"
+      ],
+      "description": "广州L4级自动驾驶企业，AutoX品牌，在深圳、广州等地开展Robotaxi运营。",
+      "qualifications": [
+        "国家高新技术企业",
+        "L4自动驾驶运营许可"
+      ],
+      "website": "https://www.autox.ai"
+    },
+    "深圳玉树智能科技有限公司": {
+      "type": "民企",
+      "tier": "中游集成",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "具身智能训练场",
+        "机器人数据采集平台",
+        "仿真测试环境",
+        "具身智能验证服务"
+      ],
+      "description": "广东省具身智能训练场(1+1+N)体系首批分训练场之一，位于深圳，提供具身智能机器人数据训练和验证支撑服务。",
+      "qualifications": [
+        "广东省具身智能训练场分训练场",
+        "国家高新技术企业"
+      ],
+      "website": "https://www.ctirobot.com"
+    },
+    "广州白云建科控股集团有限公司": {
+      "type": "国央企",
+      "tier": "中游集成",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "具身智能训练场",
+        "机器人测试验证平台",
+        "智能建造与机器人融合方案"
+      ],
+      "description": "广东省具身智能训练场(1+1+N)体系首批分训练场之一，位于广州白云区，为具身智能机器人提供数据采集、训练和测试验证服务。",
+      "qualifications": [
+        "广东省具身智能训练场分训练场"
+      ],
+      "website": "https://www.byjkkg.com"
+    },
+    "珠海珠科产促科技发展有限公司": {
+      "type": "民企",
+      "tier": "中游集成",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "具身智能训练场",
+        "机器人场景测试服务",
+        "产业促进平台"
+      ],
+      "description": "广东省具身智能训练场(1+1+N)体系首批分训练场之一，位于珠海，为具身智能机器人提供场景化测试验证和产业促进服务。",
+      "qualifications": [
+        "广东省具身智能训练场分训练场"
+      ],
+      "website": "https://www.zhukechancu.com"
+    },
+    "卧安科技（深圳）有限公司": {
+      "type": "民企",
+      "tier": "中游集成",
+      "scenarios": [
+        "具身智能",
+        "人工智能"
+      ],
+      "products": [
+        "具身智能数据闭环平台",
+        "机器人训练数据采集系统",
+        "仿真数据生成工具"
+      ],
+      "description": "深圳具身智能数据闭环赛道领军企业，专注机器人训练数据采集、仿真和闭环验证，为具身智能企业提供数据燃料。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.onerobot.com"
+    },
+    "深圳一清创新科技有限公司": {
+      "type": "民企",
+      "tier": "中游集成",
+      "scenarios": [
+        "具身智能",
+        "自动驾驶",
+        "智慧出行服务"
+      ],
+      "products": [
+        "无人配送车解决方案",
+        "低速无人驾驶系统",
+        "智慧物流调度平台"
+      ],
+      "description": "深圳低速无人驾驶解决方案提供商，提供无人配送车整车方案和智慧物流调度系统，产品覆盖快递配送、商超零售等场景。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.unity-drive.com"
+    },
+    "深圳市云洁科技有限公司": {
+      "type": "民企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧交通管理"
+      ],
+      "products": [
+        "无人驾驶清扫车",
+        "户外环卫机器人",
+        "智慧环卫解决方案"
+      ],
+      "description": "深圳本土无人驾驶环卫机器人企业，专注户外扫地机器人研发和运营，产品应用于深圳多个区域市政环卫场景，降低人工成本70%。",
+      "qualifications": [
+        "国家高新技术企业",
+        "深圳无人环卫运营企业"
+      ],
+      "website": "https://www.iyunjie.com.cn"
+    },
+    "城市之光（深圳）无人驾驶有限公司": {
+      "type": "民企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧交通管理"
+      ],
+      "products": [
+        "无人驾驶环卫车",
+        "智慧环卫运营平台",
+        "数字化环卫管理体系"
+      ],
+      "description": "深圳无人驾驶环卫运营企业，依托深圳清华大学研究院技术赋能，构建(平台+设备+服务)三位一体智慧环卫交付体系，在深圳多个区域开展无人环卫车规模运营。",
+      "qualifications": [
+        "国家高新技术企业",
+        "深圳无人环卫运营企业"
+      ],
+      "website": "https://www.chengshizhiguang.com"
+    },
+    "坎德拉（深圳）科技创新有限公司": {
+      "type": "民企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧交通管理"
+      ],
+      "products": [
+        "无人环卫机器人",
+        "末端配送机器人",
+        "智慧城市服务机器人"
+      ],
+      "description": "深圳自动驾驶环卫和末端配送机器人企业，产品覆盖无人环卫清扫、园区配送等场景，在深圳多个区域开展规模化运营。",
+      "qualifications": [
+        "国家高新技术企业",
+        "深圳无人环卫运营企业"
+      ],
+      "website": "https://www.ctirobot.com"
+    },
+    "广州赛特智能科技有限公司": {
+      "type": "民企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧交通管理"
+      ],
+      "products": [
+        "无人清扫车",
+        "无人驾驶环卫设备",
+        "智慧环卫管理系统"
+      ],
+      "description": "广州无人驾驶环卫设备企业，产品应用于城市道路和园区环卫清扫场景，在深圳等多个城市开展无人环卫车运营。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.saiterobot.com"
+    },
+    "新石器慧通（北京）科技有限公司深圳分公司": {
+      "type": "民企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧出行服务",
+        "自动驾驶"
+      ],
+      "products": [
+        "无人配送车",
+        "RoboVan无人零售车",
+        "智慧物流运力服务"
+      ],
+      "description": "国内无人配送车头部企业，腾讯战略入股，保有量1.7万台占全国36.2%，在深圳等城市开展大规模无人配送和无人零售运营。",
+      "qualifications": [
+        "国家高新技术企业",
+        "中国独角兽企业",
+        "无人配送车市场份额第一"
+      ],
+      "website": "https://www.neolix.cn"
+    },
+    "九识（苏州）智能科技有限公司深圳分公司": {
+      "type": "民企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧出行服务",
+        "自动驾驶"
+      ],
+      "products": [
+        "RoboVan无人配送车",
+        "L4级同城货运方案",
+        "自动配送运力运营"
+      ],
+      "description": "国内无人配送车头部企业，菜鸟战略入股，保有量2.5万台占全国53.2%，以运力服务模式在深圳等城市开展大规模无人配送运营。",
+      "qualifications": [
+        "国家高新技术企业",
+        "中国独角兽企业",
+        "无人配送车市场份额第一"
+      ],
+      "website": "https://www.zelostech.com.cn"
+    },
+    "白犀牛智达（深圳）科技有限公司": {
+      "type": "民企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧出行服务",
+        "自动驾驶"
+      ],
+      "products": [
+        "无人配送车",
+        "自动驾驶运力服务",
+        "城市末端物流方案"
+      ],
+      "description": "专注城市公开道路自动驾驶配送的头部企业，顺丰多次战略投资，在深圳等城市开展无人配送运营，以运力服务模式赋能末端物流。",
+      "qualifications": [
+        "国家高新技术企业",
+        "顺丰战略投资企业"
+      ],
+      "website": "https://www.rino.ai"
+    },
+    "深圳市星火科技有限责任公司": {
+      "type": "民企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧交通管理"
+      ],
+      "products": [
+        "无人环卫车运营",
+        "自动驾驶清扫服务",
+        "智慧环卫管理"
+      ],
+      "description": "深圳无人驾驶环卫车运营企业，在深圳多个区域开展无人环卫车规模化运营服务。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.xinghuokeji.com"
+    },
+    "酷哇科技有限公司深圳分公司": {
+      "type": "民企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧交通管理",
+        "自动驾驶"
+      ],
+      "products": [
+        "自动驾驶环卫车",
+        "无人清扫运营",
+        "智慧城市环卫方案"
+      ],
+      "description": "国内自动驾驶环卫头部企业，在深圳等城市开展大规模无人环卫车运营，深圳市场主要参与者之一。",
+      "qualifications": [
+        "国家高新技术企业"
+      ],
+      "website": "https://www.cowarobot.com"
+    },
+    "深圳巴士集团股份有限公司": {
+      "type": "国央企",
+      "tier": "下游应用",
+      "scenarios": [
+        "具身智能",
+        "智慧出行服务",
+        "智慧交通管理"
+      ],
+      "products": [
+        "公交+无人配送融合运营",
+        "自动驾驶公交试点",
+        "MaaS出行服务"
+      ],
+      "description": "深圳市属国有公交运营企业，参与建设全国首个(公交体系+无人配送)融合运营框架，推动自动驾驶公交和无人配送融合发展。",
+      "qualifications": [
+        "深圳市属国有企业",
+        "全国首个公交+无人配送融合运营方"
+      ],
+      "website": "https://www.szbus.com.cn"
     }
   }
 }
